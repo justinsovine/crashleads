@@ -1,0 +1,5821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by the PDFlib Text and Image Extraction Toolkit TET (www.pdflib.com) -->
+<TET xmlns=""
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.pdflib.com/XML/TET5/TET-5.0
+ http://www.pdflib.com/XML/TET5/TET-5.0.xsd"
+ version="5.0">
+<Creation platform="Linux-x86_64" tetVersion="5.0" date="2018-02-03T01:09:05-05:00" />
+<Document filename="reports/2018/02/03/digital_report_6543239.pdf" pageCount="3" filesize="263760" linearized="false" pdfVersion="1.4">
+<DocInfo>
+<CreationDate>2018-02-03T01:09:07-05:00</CreationDate>
+<Creator>PDFsharp 1.31.1789-g (www.pdfsharp.com)</Creator>
+<Producer>PDFsharp 1.31.1789-g (www.pdfsharp.com)</Producer>
+</DocInfo>
+<Options> tetml={filename={reports/2018/02/03/digital_extracts/digital_report_6543239.xml}}</Options>
+<Pages>
+<Page number="1" width="612.00" height="792.00">
+<Options> granularity=line tetml={}</Options>
+<Content granularity="line" dehyphenation="false" dropcap="false" font="false" geometry="false" shadow="false" sub="false" sup="false">
+<PlacedImage image="I1" x="34.90" y="722.52" width="62.33" height="25.80" />
+<Para>
+ <Box llx="43.56" lly="709.56" urx="77.41" ury="713.56">
+  <Line>
+   <Text>PHOTOS TAKEN</Text>
+  </Line>
+ </Box>
+</Para>
+<Table llx="41.34" lly="692.65" urx="81.54" ury="707.14">
+ <Row>
+  <Cell llx="43.34" lly="700.64" urx="56.61" ury="706.64">
+   <Para>
+    <Box llx="43.34" lly="701.14" urx="56.61" ury="706.14">
+     <Line>
+      <Text>OH -2</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="64.94" lly="700.64" urx="81.54" ury="706.64">
+   <Para>
+    <Box llx="64.94" lly="701.14" urx="81.54" ury="706.14">
+     <Line>
+      <Text>OH -1P</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell llx="43.34" lly="693.65" urx="56.61" ury="698.65">
+   <Para>
+    <Box llx="43.34" lly="693.65" urx="56.61" ury="698.65">
+     <Line>
+      <Text>OH -3</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="64.94" lly="693.65" urx="81.54" ury="698.65">
+   <Para>
+    <Box llx="64.94" lly="693.22" urx="80.50" ury="697.22">
+     <Line>
+      <Text>OTHER</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Para>
+ <Box llx="103.39" lly="742.75" urx="286.42" ury="756.75">
+  <Line>
+   <Text>TRAFFIC CRASH REPORT</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="315.65" lly="741.89" urx="371.44" ury="745.89">
+  <Line>
+   <Text>LOCAL REPORT NUMBER *</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="317.66" lly="727.63" urx="389.94" ury="737.63">
+  <Line>
+   <Text>2018000001989</Text>
+  </Line>
+ </Box>
+</Para>
+<Table llx="93.74" lly="691.62" urx="466.06" ury="735.49">
+ <Row>
+  <Cell colSpan="2" llx="101.45" lly="732.09" urx="145.23" ury="736.09">
+   <Para>
+    <Box llx="101.45" lly="731.09" urx="145.23" ury="735.09">
+     <Line>
+      <Text>LOCAL INFORMATION</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell llx="93.74" lly="704.80" urx="122.14" ury="715.39">
+   <Para>
+    <Box llx="93.74" lly="703.80" urx="120.84" ury="714.49">
+     <Line>
+      <Text>PDO UNDER</Text>
+     </Line>
+     <Line>
+      <Text>STATE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="143.64" lly="704.80" urx="163.16" ury="715.39">
+   <Para>
+    <Box llx="143.64" lly="707.18" urx="162.10" ury="711.18">
+     <Line>
+      <Text>PRIVATE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="169.70" lly="704.80" urx="234.95" ury="715.39">
+   <Para>
+    <Box llx="169.70" lly="709.99" ulx="169.70" uly="713.99" urx="234.95" ury="715.99" lrx="234.95" lry="709.99">
+     <Line>
+      <Text>REPORTING AGENCY NCIC *</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="239.33" lly="704.80" urx="302.87" ury="715.39">
+   <Para>
+    <Box llx="239.33" lly="709.92" ulx="239.33" uly="713.92" urx="302.87" ury="715.92" lrx="302.87" lry="709.92">
+     <Line>
+      <Text>REPORTING AGENCY NAME *</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="3" llx="93.74" lly="692.42" urx="192.30" ury="706.73">
+   <Para>
+    <Box llx="143.64" lly="700.42" urx="166.99" ury="704.42">
+     <Line>
+      <Text>PROPERTY</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="93.74" lly="698.11" urx="121.32" ury="702.11">
+     <Line>
+      <Text>REPORTABLE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="93.74" lly="692.42" urx="129.50" ury="696.42">
+     <Line>
+      <Text>DOLLAR AMOUNT</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="170.06" lly="693.22" urx="192.30" ury="701.22">
+     <Line>
+      <Text>03112</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="239.40" lly="692.42" urx="351.06" ury="706.73">
+   <Para>
+    <Box llx="239.40" lly="693.43" urx="351.06" ury="701.43">
+     <Line>
+      <Text>Forest Park - Police Departmen</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="458.50" lly="692.42" urx="464.06" ury="706.73">
+   <Para>
+    <Box llx="458.50" lly="695.74" urx="464.06" ury="705.74">
+     <Line>
+      <Text>2</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Para>
+ <Box llx="480.02" lly="741.10" urx="518.14" ury="745.10">
+  <Line>
+   <Text>CRASH SEVERITY</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="483.98" lly="727.27" urx="515.74" ury="738.69">
+  <Line>
+   <Text>3 1 - FATAL</Text>
+  </Line>
+  <Line>
+   <Text>2 - INJURY</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="477.86" lly="699.77" urx="503.23" ury="710.54">
+  <Line>
+   <Text>NUMBER OF</Text>
+  </Line>
+  <Line>
+   <Text>UNITS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="494.57" lly="721.15" ulx="494.57" uly="725.15" urx="511.58" ury="726.15" lrx="511.58" lry="721.15">
+  <Line>
+   <Text>3 - PDO</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="515.02" lly="708.41" urx="546.32" ury="712.41">
+  <Line>
+   <Text>UNIT IN ERROR</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="520.78" lly="694.66" urx="526.34" ury="704.65">
+  <Line>
+   <Text>1</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="529.06" lly="741.89" urx="549.03" ury="745.89">
+  <Line>
+   <Text>HIT/SKIP</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="529.56" lly="726.84" urx="567.96" ury="739.26">
+  <Line>
+   <Text>2 1 - SOLVED</Text>
+  </Line>
+  <Line>
+   <Text>2. UNSOLVED</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="535.97" lly="692.42" ulx="535.97" uly="705.19" urx="570.38" ury="703.19" lrx="570.38" lry="692.42">
+  <Line>
+   <Text>98 - ANIMAL</Text>
+  </Line>
+  <Line>
+   <Text>99 - UNKNOWN</Text>
+  </Line>
+ </Box>
+</Para>
+<Table llx="36.94" lly="678.80" urx="563.40" ury="687.10">
+ <Row>
+  <Cell llx="36.94" lly="678.80" urx="57.86" ury="687.10">
+   <Para>
+    <Box llx="36.94" lly="679.68" urx="143.61" ury="686.70">
+     <Line>
+      <Text>COUNTY *</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="131.76" lly="678.80" urx="143.61" ury="687.10">
+   <Para>
+    <Line>
+     <Text>cITY *</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="160.70" lly="678.80" urx="220.12" ury="687.10">
+   <Para>
+    <Box llx="160.70" lly="680.83" urx="448.58" ury="685.12">
+     <Line>
+      <Text>CITY, VILLAGE, TOWNSHIP *</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="417.38" lly="678.80" urx="448.58" ury="687.10">
+   <Para>
+    <Line>
+     <Text>CRASH DATE *</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="480.17" lly="678.80" urx="515.10" ury="687.10">
+   <Para>
+    <Box llx="480.17" lly="680.62" urx="563.40" ury="685.05">
+     <Line>
+      <Text>TIME OF CRASH</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="531.29" lly="678.80" urx="563.40" ury="687.10">
+   <Para>
+    <Line>
+     <Text>DAY OF WEEK</Text>
+    </Line>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table llx="36.79" lly="661.02" urx="546.64" ury="677.25">
+ <Row>
+  <Cell llx="36.79" lly="661.02" urx="95.89" ury="677.25">
+   <Para>
+    <Box llx="36.79" lly="667.30" urx="95.89" ury="675.30">
+     <Line>
+      <Text>Hamilton County</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell colSpan="2" llx="131.62" lly="661.02" urx="201.19" ury="677.25">
+   <Para>
+    <Box llx="131.62" lly="663.55" urx="157.00" ury="675.62">
+     <Line>
+      <Text>vILLAGE*</Text>
+     </Line>
+     <Line>
+      <Text>TOWNSHIP *</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="159.98" lly="663.62" urx="457.68" ury="674.65">
+     <Line>
+      <Text>Forest Park</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="417.67" lly="661.02" urx="457.68" ury="677.25">
+   <Para>
+    <Line>
+     <Text>02/01/2018</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="480.17" lly="661.02" urx="500.17" ury="677.25">
+   <Para>
+    <Box llx="480.17" lly="663.62" urx="546.64" ury="671.70">
+     <Line>
+      <Text>19:10</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="530.21" lly="661.02" urx="546.64" ury="677.25">
+   <Para>
+    <Line>
+     <Text>THU</Text>
+    </Line>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Para>
+ <Box llx="35.64" lly="646.92" urx="99.61" ury="650.92">
+  <Line>
+   <Text>DEGREES/MINUTES/SECONDS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="42.77" lly="636.91" urx="63.17" ury="640.91">
+  <Line>
+   <Text>LATITUDE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="157.61" lly="636.91" urx="182.01" ury="640.91">
+  <Line>
+   <Text>LONGITUDE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="44.78" lly="623.30" urx="164.06" ury="631.30">
+  <Line>
+   <Text>:: ::</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="274.97" lly="622.94" urx="282.74" ury="644.25">
+  <Line>
+   <Text>O</Text>
+  </Line>
+  <Line>
+   <Text>R</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="283.82" lly="637.13" urx="325.60" ury="651.06">
+  <Line>
+   <Text>DECIMAL DEGREES</Text>
+  </Line>
+  <Line>
+   <Text>LATITUDE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="443.09" lly="637.13" urx="467.49" ury="641.13">
+  <Line>
+   <Text>LONGITUDE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="295.06" lly="625.54" urx="487.15" ury="633.53">
+  <Line>
+   <Text>39.294196 84.560424</Text>
+  </Line>
+ </Box>
+</Para>
+<Table llx="35.64" lly="606.37" urx="332.52" ury="613.45">
+ <Row>
+  <Cell llx="35.64" lly="606.37" urx="78.01" ury="613.45">
+   <Para>
+    <Box llx="35.64" lly="607.25" urx="170.42" ury="613.05">
+     <Line>
+      <Text>RoADWAY DIVISION</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell colSpan="2" llx="91.22" lly="606.37" urx="170.42" ury="613.45">
+   <Para>
+    <Line>
+     <Text>DIVIDED LANE DIRECTION OF TRAVEL</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="204.70" lly="606.37" urx="259.21" ury="613.45">
+   <Para>
+    <Box llx="204.70" lly="607.25" urx="259.21" ury="611.25">
+     <Line>
+      <Text>NUMBER OF THRU LANES</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="272.52" lly="606.37" urx="332.52" ury="613.45">
+   <Para>
+    <Box llx="272.52" lly="607.25" urx="332.52" ury="611.25">
+     <Line>
+      <Text>ROAD TYPES OR MILEPOST</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table llx="48.17" lly="582.80" urx="566.57" ury="605.37">
+ <Row>
+  <Cell llx="48.17" lly="582.80" urx="71.58" ury="605.37">
+   <Para>
+    <Box llx="48.17" lly="592.92" urx="71.58" ury="604.41">
+     <Line>
+      <Text>DIVIDED</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Line>
+     <Text>UNDIVIDED</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="105.64" lly="582.80" urx="148.58" ury="605.37">
+   <Para>
+    <Box llx="107.57" lly="590.40" ulx="107.57" uly="603.60" urx="147.15" ury="601.60" lrx="147.15" lry="590.40">
+     <Line>
+      <Text>N - NORTHBOUND</Text>
+     </Line>
+     <Line>
+      <Text>S - SOUTHBOUND</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="153.38" lly="582.80" urx="194.48" ury="605.37">
+   <Para>
+    <Box llx="155.38" lly="597.60" ulx="155.38" uly="603.60" urx="190.76" ury="601.60" lrx="190.76" lry="597.60">
+     <Line>
+      <Text>E - EASTBOUND</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="155.38" lly="590.40" urx="192.48" ury="596.40">
+     <Line>
+      <Text>W -WESTBOUND</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="205.49" lly="582.80" urx="209.94" ury="605.37">
+   <Para>
+    <Box llx="205.49" lly="588.60" urx="209.94" ury="596.60">
+     <Line>
+      <Text>1</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="270.52" lly="582.80" urx="350.01" ury="605.37">
+   <Para>
+    <Box llx="272.52" lly="585.07" ulx="272.52" uly="605.40" urx="311.07" ury="603.40" lrx="311.07" lry="585.07">
+     <Line>
+      <Text>AL - ALLEY</Text>
+     </Line>
+     <Line>
+      <Text>AV - AVENUE</Text>
+     </Line>
+     <Line>
+      <Text>BL - BOULEVARD</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="318.02" lly="585.00" ulx="318.02" uly="605.33" urx="348.01" ury="603.33" lrx="348.01" lry="585.00">
+     <Line>
+      <Text>CR - CIRCLE</Text>
+     </Line>
+     <Line>
+      <Text>CT - COURT</Text>
+     </Line>
+     <Line>
+      <Text>DR - DRIVE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="360.09" lly="582.80" urx="397.80" ury="605.37">
+   <Para>
+    <Box llx="362.09" lly="585.00" ulx="362.09" uly="605.33" urx="397.80" ury="603.33" lrx="397.80" lry="585.00">
+     <Line>
+      <Text>HE - HEIGHTS</Text>
+     </Line>
+     <Line>
+      <Text>HW - HIGHWAY</Text>
+     </Line>
+     <Line>
+      <Text>LA - LANE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="404.22" lly="582.80" urx="444.25" ury="605.37">
+   <Para>
+    <Box llx="406.22" lly="585.00" ulx="406.22" uly="605.33" urx="442.25" ury="603.33" lrx="442.25" lry="585.00">
+     <Line>
+      <Text>MP - MILEPOST</Text>
+     </Line>
+     <Line>
+      <Text>PK - PARKWAY</Text>
+     </Line>
+     <Line>
+      <Text>PI - PIKE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="449.22" lly="582.80" urx="485.29" ury="605.37">
+   <Para>
+    <Box llx="451.22" lly="585.00" ulx="451.22" uly="605.33" urx="483.29" ury="603.33" lrx="483.29" lry="585.00">
+     <Line>
+      <Text>PL - PLACE</Text>
+     </Line>
+     <Line>
+      <Text>RD - ROAD</Text>
+     </Line>
+     <Line>
+      <Text>SQ - SQUARE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="494.22" lly="582.80" urx="529.87" ury="605.37">
+   <Para>
+    <Box llx="496.22" lly="585.00" ulx="496.22" uly="605.33" urx="529.87" ury="603.33" lrx="529.87" lry="585.00">
+     <Line>
+      <Text>ST - STREET</Text>
+     </Line>
+     <Line>
+      <Text>TE - TERRACE</Text>
+     </Line>
+     <Line>
+      <Text>TL - TRAIL</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="540.72" lly="582.80" urx="566.57" ury="605.37">
+   <Para>
+    <Box llx="540.72" lly="600.41" ulx="540.72" uly="606.41" urx="566.57" ury="604.41" lrx="566.57" lry="600.41">
+     <Line>
+      <Text>WA - WAY</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Para>
+ <Box llx="59.69" lly="569.88" urx="136.84" ury="578.63">
+  <Line>
+   <Text>LoCATION ROUTE NUMBER</Text>
+  </Line>
+  <Line>
+   <Text>LOCATION</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="59.69" lly="556.34" urx="75.11" ury="567.11">
+  <Line>
+   <Text>ROUTE</Text>
+  </Line>
+  <Line>
+   <Text>TYPE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="34.56" lly="541.15" urx="97.43" ury="549.83">
+  <Line>
+   <Text>DISTANCE FROM REFERENCE</Text>
+  </Line>
+  <Line>
+   <Text>MILES</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="50.90" lly="532.15" urx="66.46" ury="540.15">
+  <Line>
+   <Text>5.00</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="73.58" lly="529.42" urx="88.72" ury="539.10">
+  <Line>
+   <Text>FEET</Text>
+  </Line>
+  <Line>
+   <Text>YARDS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="34.92" lly="522.14" urx="89.22" ury="526.14">
+  <Line>
+   <Text>REFERENCE POINT USED</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="39.46" lly="502.06" urx="45.02" ury="512.05">
+  <Line>
+   <Text>3</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="48.67" lly="512.71" urx="85.88" ury="518.71">
+  <Line>
+   <Text>1 </Text>
+  </Line>
+  <Line>
+   <Text>-INTERSECTION</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="48.67" lly="504.43" urx="79.92" ury="510.43">
+  <Line>
+   <Text>2 -MILE POST</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="48.38" lly="496.80" urx="90.76" ury="502.80">
+  <Line>
+   <Text>3 -HOUSE NUMBER</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="94.75" lly="514.94" urx="116.27" ury="525.71">
+  <Line>
+   <Text>CRASH</Text>
+  </Line>
+  <Line>
+   <Text>LOCATION</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="105.77" lly="545.26" urx="138.59" ury="549.26">
+  <Line>
+   <Text>DIR FROM REF</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="109.94" lly="531.94" urx="132.40" ury="544.70">
+  <Line>
+   <Text>E N,S,</Text>
+  </Line>
+  <Line>
+   <Text>E,W</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="108.07" lly="497.88" urx="113.63" ury="507.88">
+  <Line>
+   <Text>1</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="144.07" lly="573.70" urx="170.52" ury="577.70">
+  <Line>
+   <Text>LoC </Text>
+  </Line>
+  <Line>
+   <Text>PREFIX</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="142.06" lly="534.38" urx="146.72" ury="547.15">
+  <Line>
+   <Text>O</Text>
+  </Line>
+  <Line>
+   <Text>F</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="159.62" lly="557.71" urx="171.28" ury="570.48">
+  <Line>
+   <Text>N,S,</Text>
+  </Line>
+  <Line>
+   <Text>E,W</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="172.01" lly="532.30" urx="198.09" ury="549.83">
+  <Line>
+   <Text>REFERENCE</Text>
+  </Line>
+  <Line>
+   <Text>ROUTE</Text>
+  </Line>
+  <Line>
+   <Text>TYPE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="123.98" lly="485.78" ulx="123.98" uly="521.95" urx="203.16" ury="519.95" lrx="203.16" lry="485.78">
+  <Line>
+   <Text>01 - NOT AN INTERSECTION</Text>
+  </Line>
+  <Line>
+   <Text>02 - FOUR- WAY INTERSECTION</Text>
+  </Line>
+  <Line>
+   <Text>03 - T-INTERSECTION</Text>
+  </Line>
+  <Line>
+   <Text>04 - Y-INTERSECTION</Text>
+  </Line>
+  <Line>
+   <Text>05 - TRAFFIC CIRCLE/ ROUNDABOUT</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="202.90" lly="572.47" urx="252.81" ury="576.47">
+  <Line>
+   <Text>LoCATION ROAD NAME</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="202.90" lly="558.00" urx="232.32" ury="566.00">
+  <Line>
+   <Text>Olympia</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="200.23" lly="544.75" urx="262.62" ury="548.75">
+  <Line>
+   <Text>REFERENCE ROUTE NUMBER</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="205.99" lly="485.78" ulx="205.99" uly="521.95" urx="275.49" ury="519.95" lrx="275.49" lry="485.78">
+  <Line>
+   <Text>06 - FIVE-POINT, OR MORE</Text>
+  </Line>
+  <Line>
+   <Text>07 - ON RAMP</Text>
+  </Line>
+  <Line>
+   <Text>08 - OFF RAMP</Text>
+  </Line>
+  <Line>
+   <Text>09 - CROSSOVER</Text>
+  </Line>
+  <Line>
+   <Text>10 - DRIVEWAY/ ALLEY ACCESS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="266.18" lly="545.26" urx="292.49" ury="549.26">
+  <Line>
+   <Text>REF PREFIX</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="279.43" lly="533.09" urx="291.08" ury="545.86">
+  <Line>
+   <Text>N,S,</Text>
+  </Line>
+  <Line>
+   <Text>E,W</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="340.06" lly="562.68" urx="381.30" ury="575.18">
+  <Line>
+   <Text>WA </Text>
+  </Line>
+  <Line>
+   <Text>LOCATION</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="359.78" lly="557.64" urx="372.76" ury="568.41">
+  <Line>
+   <Text>ROAD</Text>
+  </Line>
+  <Line>
+   <Text>TYPE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="307.87" lly="544.10" urx="409.92" ury="548.10">
+  <Line>
+   <Text>REFERENCE NAME (ROAD, MILEPOST, HOUSE #)</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="307.80" lly="533.09" urx="334.48" ury="541.09">
+  <Line>
+   <Text>011755</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="280.66" lly="500.40" ulx="280.66" uly="521.95" urx="360.60" ury="519.95" lrx="360.60" lry="500.40">
+  <Line>
+   <Text>11 - RAILWAY GRADE CROSSING</Text>
+  </Line>
+  <Line>
+   <Text>12 - SHARED-USE PATHS OR TRAILS</Text>
+  </Line>
+  <Line>
+   <Text>99 - UNKNOWN</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="389.23" lly="574.63" urx="421.13" ury="578.63">
+  <Line>
+   <Text>ROUTE TYPES</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="390.24" lly="567.58" ulx="390.24" uly="573.58" urx="476.37" ury="571.58" lrx="476.37" lry="567.58">
+  <Line>
+   <Text>IR - INTERSTATE ROUTE (INC. TURNPIKE)</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="390.24" lly="554.18" ulx="390.24" uly="566.38" urx="434.46" ury="564.38" lrx="434.46" lry="554.18">
+  <Line>
+   <Text>US - US ROUTE</Text>
+  </Line>
+  <Line>
+   <Text>SR - STATE ROUTE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="386.78" lly="510.70" urx="417.08" ury="514.70">
+  <Line>
+   <Text>INTERSECTION</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="456.84" lly="507.10" urx="462.40" ury="517.09">
+  <Line>
+   <Text>6</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="386.78" lly="503.93" urx="406.65" ury="507.93">
+  <Line>
+   <Text>RELATED</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="486.43" lly="561.38" ulx="486.43" uly="573.58" urx="564.78" ury="571.58" lrx="564.78" lry="561.38">
+  <Line>
+   <Text>CR - NUMBERED COUNTY ROUTE</Text>
+  </Line>
+  <Line>
+   <Text>TR - NUMBERED TOWNSHIP ROUTE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="453.96" lly="521.71" urx="535.10" ury="525.71">
+  <Line>
+   <Text>LOCATION OF FIRST HARMFUL EVENT</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="470.16" lly="492.55" ulx="470.16" uly="519.86" urx="509.88" ury="517.86" lrx="509.88" lry="492.55">
+  <Line>
+   <Text>1 - ON ROADWAY</Text>
+  </Line>
+  <Line>
+   <Text>2 - ON SHOULDE</Text>
+  </Line>
+  <Line>
+   <Text>3 - IN MEDIAN</Text>
+  </Line>
+  <Line>
+   <Text>4 - ON ROADSIDE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="547.78" lly="531.72" urx="573.86" ury="549.26">
+  <Line>
+   <Text>REFERENCE</Text>
+  </Line>
+  <Line>
+   <Text>ROAD</Text>
+  </Line>
+  <Line>
+   <Text>TYPE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="519.77" lly="497.66" ulx="519.77" uly="518.06" urx="576.42" ury="516.06" lrx="576.42" lry="497.66">
+  <Line>
+   <Text>5 - ON GORE</Text>
+  </Line>
+  <Line>
+   <Text>6 - OUTSIDE TRAFFICWAY</Text>
+  </Line>
+  <Line>
+   <Text>9 - UNKNOWN</Text>
+  </Line>
+ </Box>
+</Para>
+<Table llx="34.92" lly="445.02" urx="574.27" ury="481.66">
+ <Row>
+  <Cell llx="34.92" lly="445.02" urx="98.64" ury="481.66">
+   <Para>
+    <Box llx="34.92" lly="476.78" urx="70.60" ury="480.78">
+     <Line>
+      <Text>ROAD CONTOUR</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="39.38" lly="460.80" urx="44.94" ury="470.80">
+     <Line>
+      <Text>2</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="48.67" lly="453.17" ulx="48.67" uly="473.28" urx="96.64" ury="471.28" lrx="96.64" lry="453.17">
+     <Line>
+      <Text>1 - STRAIGHT LEVEL</Text>
+     </Line>
+     <Line>
+      <Text>2 - STRAIGHT GRADE</Text>
+     </Line>
+     <Line>
+      <Text>3 - CURVE LEVEL</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="103.61" lly="445.02" urx="144.45" ury="481.66">
+   <Para>
+    <Box llx="103.61" lly="460.22" ulx="103.61" uly="473.57" urx="144.45" ury="471.57" lrx="144.45" lry="460.22">
+     <Line>
+      <Text>4 - CURVE GRADE</Text>
+     </Line>
+     <Line>
+      <Text>9 - UNKNOWN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="156.60" lly="445.02" urx="197.16" ury="481.66">
+   <Para>
+    <Box llx="156.60" lly="468.43" urx="197.16" ury="480.78">
+     <Line>
+      <Text>ROAD CONDITIONS</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Line>
+     <Text>PRIMARY</Text>
+    </Line>
+   </Para>
+   <Para>
+    <Box llx="177.41" lly="453.46" urx="182.97" ury="463.45">
+     <Line>
+      <Text>1</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="213.98" lly="445.02" urx="240.67" ury="481.66">
+   <Para>
+    <Box llx="213.98" lly="468.43" urx="240.67" ury="472.43">
+     <Line>
+      <Text>SECONDARY</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="255.62" lly="445.02" urx="285.22" ury="481.66">
+   <Para>
+    <Box llx="257.62" lly="448.70" ulx="257.62" uly="476.02" urx="283.22" ury="474.02" lrx="283.22" lry="448.70">
+     <Line>
+      <Text>01 - DRY</Text>
+     </Line>
+     <Line>
+      <Text>02 - WET</Text>
+     </Line>
+     <Line>
+      <Text>03 - SNOW</Text>
+     </Line>
+     <Line>
+      <Text>04 - ICE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="311.99" lly="445.02" urx="394.27" ury="481.66">
+   <Para>
+    <Box llx="313.99" lly="448.85" ulx="313.99" uly="476.16" urx="394.27" ury="474.16" lrx="394.27" lry="448.85">
+     <Line>
+      <Text>05 - SAND, MUD, DIRT, OIL, GRAVEL</Text>
+     </Line>
+     <Line>
+      <Text>06 - WATER (STANDING, MOVING)</Text>
+     </Line>
+     <Line>
+      <Text>07 - SLUSH</Text>
+     </Line>
+     <Line>
+      <Text>08 - DEBRIS *</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="441.02" lly="445.02" urx="574.27" ury="481.66">
+   <Para>
+    <Box llx="443.09" lly="471.02" ulx="443.09" uly="477.02" urx="545.75" ury="475.02" lrx="545.75" lry="471.02">
+     <Line>
+      <Text>09 - RUT, HOLES, BUMPS, UNEVEN PAVEMENT*</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="443.02" lly="457.85" ulx="443.02" uly="470.18" urx="477.42" ury="468.18" lrx="477.42" lry="457.85">
+     <Line>
+      <Text>10 - OTHER</Text>
+     </Line>
+     <Line>
+      <Text>99 - UNKNOWN</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="523.94" lly="445.68" urx="574.27" ury="448.68">
+     <Line>
+      <Text>*SECONDARY CONDITION ONLY</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table llx="37.30" lly="435.37" urx="322.78" ury="441.13">
+ <Row>
+  <Cell colSpan="2" llx="37.30" lly="435.37" urx="121.05" ury="441.13">
+   <Para>
+    <Box llx="37.30" lly="436.10" urx="322.78" ury="440.25">
+     <Line>
+      <Text>MANNER OF CRASH COLLISION/IMPACT</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell colSpan="2" llx="300.89" lly="435.37" urx="322.78" ury="441.13">
+   <Para>
+    <Line>
+     <Text>WEATHER</Text>
+    </Line>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table llx="38.95" lly="409.14" urx="555.51" ury="433.84">
+ <Row>
+  <Cell llx="38.95" lly="409.14" urx="44.51" ury="433.84">
+   <Para>
+    <Box llx="38.95" lly="420.98" urx="44.51" ury="430.98">
+     <Line>
+      <Text>9</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="48.89" lly="409.14" urx="294.37" ury="433.84">
+   <Para>
+    <Box llx="48.89" lly="414.94" ulx="48.89" uly="434.47" urx="113.36" ury="432.47" lrx="113.36" lry="414.94">
+     <Line>
+      <Text>1 - NOT COLLISION BETWEEN</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Line>
+     <Text>TWO MOTOR VEHICLES</Text>
+    </Line>
+   </Para>
+   <Para>
+    <Line>
+     <Text>IN TRANSPORT</Text>
+    </Line>
+   </Para>
+   <Table llx="113.14" lly="410.14" ulx="113.14" uly="434.74" urx="296.37" ury="431.94" lrx="296.37" lry="410.94">
+    <Row>
+     <Cell llx="117.14" lly="418.54" urx="149.42" ury="434.14">
+      <Para>
+       <Box llx="117.14" lly="418.54" ulx="117.14" uly="431.74" urx="149.42" ury="429.74" lrx="149.42" lry="418.54">
+        <Line>
+         <Text>2 - REAR-END</Text>
+        </Line>
+        <Line>
+         <Text>3 - HEAD-ON</Text>
+        </Line>
+       </Box>
+      </Para>
+     </Cell>
+     <Cell llx="163.37" lly="418.54" urx="191.22" ury="434.14">
+      <Para>
+       <Box llx="163.37" lly="419.47" ulx="163.37" uly="432.67" urx="191.22" ury="430.67" lrx="191.22" lry="419.47">
+        <Line>
+         <Text>5 - BACKING</Text>
+        </Line>
+        <Line>
+         <Text>6 - ANGLE</Text>
+        </Line>
+       </Box>
+      </Para>
+     </Cell>
+     <Cell llx="238.10" lly="418.54" urx="295.43" ury="434.14">
+      <Para>
+       <Box llx="238.10" lly="420.77" ulx="238.10" uly="433.54" urx="294.37" ury="431.54" lrx="294.37" lry="420.77">
+        <Line>
+         <Text>8 - SIDESWIPE, OPPOSITE</Text>
+        </Line>
+        <Line>
+         <Text>DIRECTION</Text>
+        </Line>
+       </Box>
+      </Para>
+     </Cell>
+    </Row>
+    <Row>
+     <Cell llx="117.14" lly="411.34" urx="158.98" ury="419.45">
+      <Para>
+       <Box llx="117.14" lly="411.34" ulx="117.14" uly="417.34" urx="158.98" ury="415.34" lrx="158.98" lry="411.34">
+        <Line>
+         <Text>4 - REAR-TO-REAR</Text>
+        </Line>
+       </Box>
+      </Para>
+     </Cell>
+     <Cell colSpan="2" llx="163.37" lly="411.34" urx="269.20" ury="419.45">
+      <Para>
+       <Line>
+        <Text>7 - SIDESWIPE, -SAME DIRECTION</Text>
+       </Line>
+      </Para>
+      <Para>
+       <Box llx="238.10" lly="412.85" ulx="238.10" uly="418.85" urx="269.20" ury="416.85" lrx="269.20" lry="412.85">
+        <Line>
+         <Text>9 - UNKNOWN</Text>
+        </Line>
+       </Box>
+      </Para>
+     </Cell>
+    </Row>
+   </Table>
+  </Cell>
+  <Cell llx="302.47" lly="409.14" urx="308.03" ury="433.84">
+   <Para>
+    <Box llx="302.47" lly="420.84" urx="308.03" ury="430.84">
+     <Line>
+      <Text>1</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="318.40" lly="409.14" urx="373.48" ury="433.84">
+   <Para>
+    <Box llx="320.40" lly="412.27" ulx="320.40" uly="432.38" urx="371.48" ury="430.38" lrx="371.48" lry="412.27">
+     <Line>
+      <Text>1 - CLEAR</Text>
+     </Line>
+     <Line>
+      <Text>2 - CLOUDY</Text>
+     </Line>
+     <Line>
+      <Text>3 - FOG,SMOG, SMOKE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="384.06" lly="409.14" urx="423.08" ury="433.84">
+   <Para>
+    <Box llx="386.06" lly="419.90" ulx="386.06" uly="432.38" urx="421.08" ury="430.38" lrx="421.08" lry="419.90">
+     <Line>
+      <Text>4 - RAIN</Text>
+     </Line>
+     <Line>
+      <Text>5 - SLEET, HAIL</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="386.06" lly="412.70" ulx="386.06" uly="418.70" urx="408.36" ury="416.70" lrx="408.36" lry="412.70">
+     <Line>
+      <Text>6 - SNOW</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="468.66" lly="409.14" urx="555.51" ury="433.84">
+   <Para>
+    <Box llx="470.66" lly="412.27" ulx="470.66" uly="433.10" urx="553.51" ury="431.10" lrx="553.51" lry="412.27">
+     <Line>
+      <Text>7 - SEVERE CROSSWINDS</Text>
+     </Line>
+     <Line>
+      <Text>8 - BLOWING SAND,SOIL, DIRT, SNOW</Text>
+     </Line>
+     <Line>
+      <Text>9 - OTHER/UNKNOWN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table llx="37.44" lly="368.10" urx="561.84" ury="404.72">
+ <Row>
+  <Cell llx="37.44" lly="368.10" urx="105.33" ury="404.72">
+   <Para>
+    <Box llx="37.44" lly="400.32" urx="71.94" ury="404.32">
+     <Line>
+      <Text>ROAD SURFACE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="40.10" lly="383.33" urx="86.36" ury="396.49">
+     <Line>
+      <Text>2 1 - CONCRETE</Text>
+     </Line>
+     <Line>
+      <Text>2 - BLACKTOP,</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="53.93" lly="376.56" urx="105.33" ury="380.56">
+     <Line>
+      <Text>BITUMINOUS, ASPHALT</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="53.93" lly="369.86" ulx="53.93" uly="375.86" urx="92.03" ury="373.86" lrx="92.03" lry="369.86">
+     <Line>
+      <Text>3 - BRICK/BLOCK</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="114.64" lly="368.10" urx="159.29" ury="404.72">
+   <Para>
+    <Box llx="116.64" lly="391.18" ulx="116.64" uly="397.18" urx="159.29" ury="395.18" lrx="159.29" lry="391.18">
+     <Line>
+      <Text>4 - SLAG , GRAVEL,</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="123.05" lly="384.41" urx="138.18" ury="388.41">
+     <Line>
+      <Text>STONE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="116.64" lly="370.58" ulx="116.64" uly="383.35" urx="140.70" ury="381.35" lrx="140.70" lry="370.58">
+     <Line>
+      <Text>5 - DIRT</Text>
+     </Line>
+     <Line>
+      <Text>6 - OTHER</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="175.32" lly="368.10" urx="215.74" ury="404.72">
+   <Para>
+    <Box llx="175.32" lly="399.67" urx="215.74" ury="403.67">
+     <Line>
+      <Text>LIGHT CONDITIONS</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="179.57" lly="387.65" urx="185.13" ury="397.65">
+     <Line>
+      <Text>9</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="190.08" lly="393.19" urx="253.12" ury="397.19">
+     <Line>
+      <Text>PRIMARY</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="229.10" lly="368.10" urx="253.12" ury="404.72">
+   <Para>
+    <Line>
+     <Text>SECONDAR</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="257.42" lly="368.10" urx="462.38" ury="404.72">
+   <Para>
+    <Box llx="259.42" lly="372.02" ulx="259.42" uly="399.19" urx="325.56" ury="397.19" lrx="325.56" lry="372.02">
+     <Line>
+      <Text>1 - DAYLIGHT</Text>
+     </Line>
+     <Line>
+      <Text>2 - DAWN</Text>
+     </Line>
+     <Line>
+      <Text>3 - DUSK</Text>
+     </Line>
+     <Line>
+      <Text>4 - DARK - LIGHTED ROADWAY</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="330.70" lly="372.02" ulx="330.70" uly="399.19" urx="424.10" ury="397.19" lrx="424.10" lry="372.02">
+     <Line>
+      <Text>5 - DARK - ROADWAY NOT LIGHTED</Text>
+     </Line>
+     <Line>
+      <Text>6 - DARK - UNKNOWN ROADWAY LIGHTING</Text>
+     </Line>
+     <Line>
+      <Text>7 - GLARE*</Text>
+     </Line>
+     <Line>
+      <Text>8 - OTHER</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="428.69" lly="393.19" ulx="428.69" uly="399.19" urx="459.78" ury="397.19" lrx="459.78" lry="393.19">
+     <Line>
+      <Text>9 - UNKNOWN</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="412.06" lly="369.00" urx="462.38" ury="372.00">
+     <Line>
+      <Text>*SECONDARY CONDITION ONLY</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="478.66" lly="368.10" urx="498.52" ury="404.72">
+   <Para>
+    <Box llx="478.66" lly="379.15" urx="498.52" ury="396.69">
+     <Line>
+      <Text>SCHOOL</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Line>
+     <Text>ZONE</Text>
+    </Line>
+   </Para>
+   <Para>
+    <Line>
+     <Text>RELATED</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="507.31" lly="368.10" urx="561.84" ury="404.72">
+   <Para>
+    <Box llx="507.31" lly="387.00" urx="558.52" ury="403.67">
+     <Line>
+      <Text>SCHOOL BUS RELATED</Text>
+     </Line>
+     <Line>
+      <Text>YES, SCHOOL BUS</Text>
+     </Line>
+     <Line>
+      <Text>DIRECTLY INVOLVED</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="515.66" lly="370.80" urx="561.84" ury="381.57">
+     <Line>
+      <Text>YES, SCHOOL BUS</Text>
+     </Line>
+     <Line>
+      <Text>INDIRECTLY INVOLVED</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table llx="41.40" lly="328.81" urx="555.54" ury="361.86">
+ <Row>
+  <Cell llx="37.66" lly="328.81" urx="61.96" ury="361.86">
+   <Para>
+    <Box llx="41.40" lly="339.77" urx="61.26" ury="357.30">
+     <Line>
+      <Text>wORK</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Line>
+     <Text>ZONE</Text>
+    </Line>
+   </Para>
+   <Para>
+    <Line>
+     <Text>RELATED</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="74.74" lly="328.81" urx="139.11" ury="361.86">
+   <Para>
+    <Box llx="74.74" lly="329.47" urx="139.11" ury="360.04">
+     <Line>
+      <Text>wORKERS PRESENT</Text>
+     </Line>
+     <Line>
+      <Text>LAW ENFORCEMENT PRESENT</Text>
+     </Line>
+     <Line>
+      <Text>(OFFICER/VEHICLE)</Text>
+     </Line>
+     <Line>
+      <Text>LAW ENFORCEMENT PRESENT</Text>
+     </Line>
+     <Line>
+      <Text>(VEHICLEONLY )</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="155.02" lly="328.81" urx="251.54" ury="361.86">
+   <Para>
+    <Box llx="155.02" lly="356.98" urx="203.13" ury="360.98">
+     <Line>
+      <Text>TYPE OF WORK ZONE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="170.64" lly="334.15" ulx="170.64" uly="354.26" urx="251.54" ury="352.26" lrx="251.54" lry="334.15">
+     <Line>
+      <Text>1 - L ANE CLOSURE</Text>
+     </Line>
+     <Line>
+      <Text>2 - LANE SHIFT/ CROSSOVER</Text>
+     </Line>
+     <Line>
+      <Text>3 - WORK ON SHOULDER OR MEDIAN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="270.30" lly="328.81" urx="352.17" ury="361.86">
+   <Para>
+    <Box llx="272.30" lly="340.92" ulx="272.30" uly="354.41" urx="352.17" ury="352.41" lrx="352.17" lry="340.92">
+     <Line>
+      <Text>4 - INTERMITTENT OR MOVING WORK</Text>
+     </Line>
+     <Line>
+      <Text>5 - OTHER</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="364.97" lly="328.81" urx="494.76" ury="361.86">
+   <Para>
+    <Box llx="364.97" lly="356.90" urx="443.97" ury="360.90">
+     <Line>
+      <Text>LOCATION OF CRASH IN WORK ZONE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="381.74" lly="333.94" ulx="381.74" uly="354.05" urx="494.76" ury="352.05" lrx="494.76" lry="333.94">
+     <Line>
+      <Text>1 - BEFORE THE FIRST WORK ZONE WARNING SIGN</Text>
+     </Line>
+     <Line>
+      <Text>2 - ADVANCE WARNING AREA</Text>
+     </Line>
+     <Line>
+      <Text>3 - TRANSITION AREA</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="500.92" lly="328.81" urx="555.54" ury="361.86">
+   <Para>
+    <Box llx="502.92" lly="341.93" ulx="502.92" uly="354.41" urx="553.54" ury="352.41" lrx="553.54" lry="341.93">
+     <Line>
+      <Text>4 - ACTIVITY AREA</Text>
+     </Line>
+     <Line>
+      <Text>5 - TERMINATION AREA</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell llx="37.66" lly="328.81" urx="61.96" ury="361.86">
+   <Para>
+    <Box llx="37.66" lly="316.87" urx="61.96" ury="320.87">
+     <Line>
+      <Text>NARRATIVE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="74.74" lly="328.81" urx="139.11" ury="361.86">
+  </Cell>
+  <Cell llx="155.02" lly="328.81" urx="251.54" ury="361.86">
+  </Cell>
+  <Cell llx="270.30" lly="328.81" urx="352.17" ury="361.86">
+  </Cell>
+  <Cell llx="364.97" lly="328.81" urx="494.76" ury="361.86">
+  </Cell>
+  <Cell llx="500.92" lly="328.81" urx="555.54" ury="361.86">
+  </Cell>
+ </Row>
+</Table>
+<PlacedImage image="I0" x="301.26" y="84.62" width="273.18" height="239.60" />
+<Para>
+ <Box llx="36.58" lly="285.77" urx="287.41" ury="311.77">
+  <Line>
+   <Text>Unit 2 was parked unoccupied in front of 11755 Olympia Way. Unit 1</Text>
+  </Line>
+  <Line>
+   <Text>struck the left front of Unit 2 causing property damage, and then left the</Text>
+  </Line>
+  <Line>
+   <Text>scene.</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="36.14" lly="85.46" urx="88.80" ury="97.60">
+  <Line>
+   <Text>REPORT TAKEN BY</Text>
+  </Line>
+  <Line>
+   <Text>POLICE AGENCY</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="107.86" lly="85.46" urx="130.58" ury="89.46">
+  <Line>
+   <Text>MOTORIST</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="174.53" lly="85.97" urx="258.97" ury="95.80">
+  <Line>
+   <Text>SUPPLEMENT </Text>
+  </Line>
+  <Line>
+   <Text>(CORRECTION OR ADDITION TO AN</Text>
+  </Line>
+  <Line>
+   <Text>EXISTING REPORT SENT TO ODPS)</Text>
+  </Line>
+ </Box>
+</Para>
+<Table llx="37.22" lly="72.92" urx="535.72" ury="78.75">
+ <Row>
+  <Cell llx="36.58" lly="72.92" urx="90.65" ury="78.75">
+   <Para>
+    <Box llx="37.22" lly="73.80" urx="191.47" ury="77.80">
+     <Line>
+      <Text>DATE CRASHREPORTED</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="140.04" lly="72.92" urx="200.30" ury="78.75">
+   <Para>
+    <Line>
+     <Text>TIME CRASHREPORTED</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="215.86" lly="72.92" urx="250.76" ury="78.75">
+   <Para>
+    <Box llx="215.86" lly="73.80" urx="317.57" ury="77.87">
+     <Line>
+      <Text>DISPATCH TIME</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="285.26" lly="72.92" urx="344.99" ury="78.75">
+   <Para>
+    <Line>
+     <Text>ARRIVAL TIME</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="357.19" lly="72.92" urx="425.18" ury="78.75">
+   <Para>
+    <Box llx="357.19" lly="73.80" urx="488.57" ury="77.80">
+     <Line>
+      <Text>TIME CLEARED</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="429.19" lly="72.92" urx="488.57" ury="78.75">
+   <Para>
+    <Line>
+     <Text>OTHER INVESTIGATIONTIME</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="500.33" lly="72.92" urx="535.72" ury="78.75">
+   <Para>
+    <Box llx="500.33" lly="73.80" urx="535.72" ury="77.80">
+     <Line>
+      <Text>TOTAL MINUTES</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell llx="36.58" lly="72.92" urx="90.65" ury="78.75">
+   <Para>
+    <Box llx="36.58" lly="59.11" urx="200.30" ury="67.47">
+     <Line>
+      <Text>02/01/2018</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="140.04" lly="72.92" urx="200.30" ury="78.75">
+   <Para>
+    <Line>
+     <Text>2/1/2018 7:10:00</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="215.86" lly="72.92" urx="250.76" ury="78.75">
+   <Para>
+    <Box llx="216.65" lly="59.18" urx="322.12" ury="67.47">
+     <Line>
+      <Text>07:10 PM</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="285.26" lly="72.92" urx="344.99" ury="78.75">
+   <Para>
+    <Line>
+     <Text>07:10 PM</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="357.19" lly="72.92" urx="425.18" ury="78.75">
+   <Para>
+    <Box llx="359.50" lly="59.26" urx="439.38" ury="67.47">
+     <Line>
+      <Text>07:33 PM</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="429.19" lly="72.92" urx="488.57" ury="78.75">
+   <Para>
+    <Line>
+     <Text>30</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="500.33" lly="72.92" urx="535.72" ury="78.75">
+   <Para>
+    <Box llx="500.90" lly="59.47" urx="509.80" ury="67.47">
+     <Line>
+      <Text>53</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell llx="36.58" lly="72.92" urx="90.65" ury="78.75">
+   <Para>
+    <Box llx="37.22" lly="48.10" urx="344.99" ury="52.74">
+     <Line>
+      <Text>OFFICER&apos;S NAME*</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="140.04" lly="72.92" urx="200.30" ury="78.75">
+  </Cell>
+  <Cell llx="215.86" lly="72.92" urx="250.76" ury="78.75">
+  </Cell>
+  <Cell llx="285.26" lly="72.92" urx="344.99" ury="78.75">
+   <Para>
+    <Line>
+     <Text>OFFICER&apos;S BADGE NUMBER</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="357.19" lly="72.92" urx="425.18" ury="78.75">
+   <Para>
+    <Box llx="358.20" lly="48.38" urx="387.50" ury="52.38">
+     <Line>
+      <Text>CHECKED BY</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="429.19" lly="72.92" urx="488.57" ury="78.75">
+  </Cell>
+  <Cell llx="500.33" lly="72.92" urx="535.72" ury="78.75">
+  </Cell>
+ </Row>
+ <Row>
+  <Cell llx="36.58" lly="72.92" urx="90.65" ury="78.75">
+   <Para>
+    <Box llx="36.58" lly="36.00" urx="305.43" ury="44.00">
+     <Line>
+      <Text>ELLIS, JUSTIN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="140.04" lly="72.92" urx="200.30" ury="78.75">
+  </Cell>
+  <Cell llx="215.86" lly="72.92" urx="250.76" ury="78.75">
+  </Cell>
+  <Cell llx="285.26" lly="72.92" urx="344.99" ury="78.75">
+   <Para>
+    <Line>
+     <Text>4092</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="357.19" lly="72.92" urx="425.18" ury="78.75">
+   <Para>
+    <Box llx="359.57" lly="36.00" urx="425.18" ury="44.00">
+     <Line>
+      <Text>DREYER, JACKIE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="429.19" lly="72.92" urx="488.57" ury="78.75">
+  </Cell>
+  <Cell llx="500.33" lly="72.92" urx="535.72" ury="78.75">
+  </Cell>
+ </Row>
+</Table>
+</Content>
+</Page>
+<Page number="2" width="612.00" height="792.00">
+<Options> granularity=line tetml={}</Options>
+<Content granularity="line" dehyphenation="false" dropcap="false" font="false" geometry="false" shadow="false" sub="false" sup="false">
+<PlacedImage image="I3" x="38.43" y="728.65" width="56.35" height="25.80" />
+<Para>
+ <Box llx="41.26" lly="716.11" urx="71.82" ury="720.11">
+  <Line>
+   <Text>UNIT NUMBER</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="40.32" lly="703.01" urx="44.77" ury="711.01">
+  <Line>
+   <Text>1</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="100.08" lly="742.82" urx="136.36" ury="756.82">
+  <Line>
+   <Text>UNIT</Text>
+  </Line>
+ </Box>
+</Para>
+<Table llx="79.43" lly="703.14" ulx="79.43" uly="721.59" urx="446.01" ury="724.39" lrx="446.01" lry="703.14">
+ <Row>
+  <Cell llx="81.43" lly="717.29" urx="161.66" ury="722.59">
+   <Para>
+    <Box llx="81.43" lly="716.69" urx="160.60" ury="720.69">
+     <Line>
+      <Text>OWNER NAME: LAST, FIRST, MIDDLE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="168.05" lly="717.29" urx="170.05" ury="722.59">
+   <Para>
+    <Box llx="168.05" lly="716.69" urx="170.05" ury="722.69">
+     <Line>
+      <Text>(</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="176.69" lly="717.29" urx="219.95" ury="722.59">
+   <Para>
+    <Box llx="178.28" lly="716.69" ulx="178.28" uly="720.69" urx="219.95" ury="722.69" lrx="219.95" lry="716.69">
+     <Line>
+      <Text>SAME AS DRIVER )</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="297.43" lly="717.29" urx="391.00" ury="722.59">
+   <Para>
+    <Box llx="297.43" lly="717.19" urx="389.94" ury="721.19">
+     <Line>
+      <Text>OWNER PHONE NUMBER - INC, AREA CODE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="395.86" lly="717.29" urx="444.01" ury="722.59">
+   <Para>
+    <Box llx="395.86" lly="717.19" urx="444.01" ury="723.19">
+     <Line>
+      <Text>( SAME AS DRIVER )</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell llx="81.43" lly="704.74" urx="161.66" ury="712.74">
+   <Para>
+    <Box llx="81.43" lly="704.74" urx="121.32" ury="712.74">
+     <Line>
+      <Text>Unknown, ,</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="168.05" lly="704.74" urx="170.05" ury="712.74">
+  </Cell>
+  <Cell llx="176.69" lly="704.74" urx="219.95" ury="712.74">
+  </Cell>
+  <Cell llx="297.43" lly="704.74" urx="391.00" ury="712.74">
+  </Cell>
+  <Cell llx="395.86" lly="704.74" urx="444.01" ury="712.74">
+  </Cell>
+ </Row>
+</Table>
+<Para>
+ <Box llx="40.82" lly="694.44" ulx="40.82" uly="698.44" urx="188.20" ury="700.44" lrx="188.20" lry="694.44">
+  <Line>
+   <Text>OWNER ADDRESS: CITY, STATE, ZIP SAME AS DRIVER )</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="40.82" lly="677.74" urx="154.74" ury="685.74">
+  <Line>
+   <Text>Unknown, Unknown, OH, 00000</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="414.36" lly="744.19" urx="467.53" ury="748.19">
+  <Line>
+   <Text>LOCAL REPORT NUMBER</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="41.26" lly="668.09" ulx="41.26" uly="674.09" urx="447.72" ury="672.23" lrx="447.72" lry="668.23">
+  <Line>
+   <Text>LP STATE LICENSE PLATE NUMBER VEHICLE IDENTIFICATION NUMBER # OCCUPANTS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="419.69" lly="729.58" urx="491.96" ury="739.58">
+  <Line>
+   <Text>2018000001989</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="455.62" lly="716.47" urx="490.46" ury="720.47">
+  <Line>
+   <Text>DAMAGE SCALE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="458.14" lly="700.92" urx="463.70" ury="710.92">
+  <Line>
+   <Text>9</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="457.20" lly="688.61" ulx="457.20" uly="694.61" urx="478.75" ury="692.61" lrx="478.75" lry="688.61">
+  <Line>
+   <Text>1 - NONE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="457.20" lly="670.90" ulx="457.20" uly="676.90" urx="480.73" ury="674.90" lrx="480.73" lry="670.90">
+  <Line>
+   <Text>2 - MINOR</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="502.92" lly="710.78" urx="544.77" ury="721.19">
+  <Line>
+   <Text>DAMAGE AREA</Text>
+  </Line>
+  <Line>
+   <Text>FRONT</Text>
+  </Line>
+ </Box>
+</Para>
+<Table llx="41.26" lly="649.72" urx="492.46" ury="662.92">
+ <Row>
+  <Cell llx="41.26" lly="649.72" urx="51.91" ury="662.92">
+   <Para>
+    <Box llx="41.26" lly="652.32" urx="449.41" ury="661.18">
+     <Line>
+      <Text>XX</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="444.96" lly="649.72" urx="449.41" ury="662.92">
+   <Para>
+    <Line>
+     <Text>0</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="457.20" lly="649.72" urx="492.46" ury="662.92">
+   <Para>
+    <Box llx="457.20" lly="653.18" ulx="457.20" uly="659.18" urx="492.46" ury="657.18" lrx="492.46" lry="653.18">
+     <Line>
+      <Text>3 - FUNCTIONAL</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table llx="42.41" lly="633.64" urx="488.52" ury="647.70">
+ <Row>
+  <Cell llx="42.41" lly="633.64" urx="74.74" ury="647.70">
+   <Para>
+    <Box llx="42.41" lly="642.02" urx="122.83" ury="646.31">
+     <Line>
+      <Text>VEHICLE YEAR</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="89.71" lly="633.64" urx="122.83" ury="647.70">
+   <Para>
+    <Line>
+     <Text>VEHICLE MAKE</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="244.87" lly="633.64" urx="280.88" ury="647.70">
+   <Para>
+    <Box llx="244.87" lly="641.16" urx="414.38" ury="646.82">
+     <Line>
+      <Text>VEHICLE MODEL</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="378.65" lly="633.64" urx="414.38" ury="647.70">
+   <Para>
+    <Line>
+     <Text>VEHICLE COLOR</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="457.20" lly="633.64" urx="488.52" ury="647.70">
+   <Para>
+    <Box llx="457.20" lly="635.40" ulx="457.20" uly="641.40" urx="488.52" ury="639.40" lrx="488.52" lry="635.40">
+     <Line>
+      <Text>4 - DISABLING</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table llx="50.33" lly="614.14" urx="488.30" ury="626.19">
+ <Row>
+  <Cell llx="50.33" lly="614.14" urx="74.42" ury="626.19">
+   <Para>
+    <Box llx="50.33" lly="615.02" urx="74.42" ury="625.79">
+     <Line>
+      <Text>PROOF OF</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Line>
+     <Text>INSURANCE</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="83.09" lly="614.14" urx="367.27" ury="626.19">
+   <Para>
+    <Box llx="83.09" lly="622.37" ulx="83.09" uly="626.37" urx="367.27" ury="624.42" lrx="367.27" lry="620.42">
+     <Line>
+      <Text>INSURANCE COMPANY POLICY NUMBER TOWED BY</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="457.20" lly="614.14" urx="488.30" ury="626.19">
+   <Para>
+    <Box llx="457.20" lly="617.69" ulx="457.20" uly="623.69" urx="488.30" ury="621.69" lrx="488.30" lry="617.69">
+     <Line>
+      <Text>9 - UNKNOWN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table llx="50.33" lly="604.50" urx="549.58" ury="612.66">
+ <Row>
+  <Cell llx="50.33" lly="604.50" urx="67.02" ury="612.66">
+   <Para>
+    <Box llx="50.33" lly="605.38" urx="549.58" ury="612.26">
+     <Line>
+      <Text>SHOWN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="537.05" lly="604.50" urx="549.58" ury="612.66">
+  </Cell>
+  <Cell llx="537.05" lly="604.50" urx="549.58" ury="612.66">
+   <Para>
+    <Line>
+     <Text>REAR</Text>
+    </Line>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<PlacedImage image="I2" x="509.25" y="601.15" width="67.20" height="115.20" />
+<Para>
+ <Box llx="40.03" lly="596.23" urx="546.26" ury="600.81">
+  <Line>
+   <Text>CARRIER NAME, ADDRESS, CITY, STATE, ZIP</Text>
+  </Line>
+  <Line>
+   <Text>CARRIER PHONE - INCLUDE AREA CODE</Text>
+  </Line>
+ </Box>
+</Para>
+<Table llx="39.53" lly="522.04" urx="583.65" ury="584.27">
+ <Row>
+  <Cell llx="39.53" lly="522.04" urx="102.16" ury="584.27">
+   <Para>
+    <Box llx="41.62" lly="576.36" urx="64.19" ury="582.36">
+     <Line>
+      <Text>US DOT</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="39.53" lly="558.07" urx="90.46" ury="564.07">
+     <Line>
+      <Text>HM PLACARD ID NO.</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="76.68" lly="526.03" urx="102.16" ury="538.80">
+     <Line>
+      <Text>HM CLASS</Text>
+     </Line>
+     <Line>
+      <Text>NUMBER</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="111.82" lly="522.04" urx="213.18" ury="584.27">
+   <Para>
+    <Box llx="111.82" lly="576.07" ulx="111.82" uly="580.07" urx="190.24" ury="582.07" lrx="190.24" lry="576.07">
+     <Line>
+      <Text>VEHICLE WEIGHT GVWR/GCWR</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="127.22" lly="554.62" ulx="127.22" uly="573.94" urx="211.18" ury="571.94" lrx="211.18" lry="554.62">
+     <Line>
+      <Text>1 - LESS THAN OR EQUAL TO 10K LBS</Text>
+     </Line>
+     <Line>
+      <Text>2 - 10,001 TO 26,000K LBS</Text>
+     </Line>
+     <Line>
+      <Text>3 - MORE THAN 26,000K LBS.</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="127.44" lly="530.86" urx="177.72" ury="541.62">
+     <Line>
+      <Text>HAZARDOUS MATERIAL</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Line>
+     <Text>RELEASED</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="218.88" lly="522.04" urx="404.08" ury="584.27">
+   <Para>
+    <Box llx="218.88" lly="576.36" urx="262.01" ury="580.36">
+     <Line>
+      <Text>CARGO BODY TYPE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="244.01" lly="570.17" ulx="244.01" uly="576.17" urx="342.67" ury="574.17" lrx="342.67" lry="570.17">
+     <Line>
+      <Text>01 - NO CARGO BODY TYPE/NOT APPLICABL</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="228.53" lly="525.17" urx="370.40" ury="572.61">
+     <Line>
+      <Text>1 02 - BUS/ VAN (9-15 SEATS, INC DRIVER)</Text>
+     </Line>
+     <Line>
+      <Text>03 - BUS (16+ SEATS, INC DRIVER)</Text>
+     </Line>
+     <Line>
+      <Text>04 - VEHICLE TOWING ANOTHER VEHICLE 12 - DUMP</Text>
+     </Line>
+     <Line>
+      <Text>05 - LOGGING</Text>
+     </Line>
+     <Line>
+      <Text>06 - INTERMODAL CONTAINER CHASIS</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Line>
+     <Text>07 - CARGO VAN/ENCLOSED BOX</Text>
+    </Line>
+    <Line>
+     <Text>08 - GRAIN, CHIPS, GRAVEL</Text>
+    </Line>
+   </Para>
+   <Para>
+    <Box llx="345.31" lly="557.21" ulx="345.31" uly="576.60" urx="387.30" ury="574.60" lrx="387.30" lry="557.21">
+     <Line>
+      <Text>09 - POLE</Text>
+     </Line>
+     <Line>
+      <Text>10 - CARGO TANK</Text>
+     </Line>
+     <Line>
+      <Text>11 - FLAT BED</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="345.31" lly="523.80" ulx="345.31" uly="549.82" urx="402.08" ury="547.82" lrx="402.08" lry="523.80">
+     <Line>
+      <Text>13 - CONCRETE MIXER</Text>
+     </Line>
+     <Line>
+      <Text>14 - AUTO TRANSPORTER</Text>
+     </Line>
+     <Line>
+      <Text>15 - GARBAGE /REFUSE</Text>
+     </Line>
+     <Line>
+      <Text>99 - OTHER/UNKNOWN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="409.32" lly="522.04" urx="583.65" ury="584.27">
+   <Para>
+    <Box llx="409.32" lly="576.43" urx="466.86" ury="580.43">
+     <Line>
+      <Text>TRAFFICWAY DESCRIPTION</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="421.92" lly="569.66" ulx="421.92" uly="575.66" urx="485.14" ury="573.66" lrx="485.14" lry="569.66">
+     <Line>
+      <Text>1 - T WO-WAY, NOT DIVIDED</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="412.42" lly="540.43" urx="581.65" ury="573.11">
+     <Line>
+      <Text>1 2 - T WO-WAY, NOT DIVIDED, CONTINUOUS LEFT TURN LANE</Text>
+     </Line>
+     <Line>
+      <Text>3 - T WO-WAY, DIVIDED, UNPROTECTED(PAINTED OR GRASS &gt;4FT.) MEDIA</Text>
+     </Line>
+     <Line>
+      <Text>4 - T WO-WAY, DIVIDED, POSITIVE MEDIANBARRIER</Text>
+     </Line>
+     <Line>
+      <Text>5 - ONE-WAY TRAFFICWAY</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="422.06" lly="528.62" urx="457.01" ury="532.62">
+     <Line>
+      <Text>HIT / SKIP UNIT</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Para>
+ <Box llx="42.05" lly="512.64" urx="138.55" ury="516.64">
+  <Line>
+   <Text>NON-MOTORIST LOCATION PRIOR TO IMPACT</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="67.68" lly="426.10" ulx="67.68" uly="511.44" urx="159.09" ury="509.44" lrx="159.09" lry="426.10">
+  <Line>
+   <Text>01 - INTERSECTION - MARKED CROSSWAL</Text>
+  </Line>
+  <Line>
+   <Text>02 - INTERSECTION - NO CROSSWALK</Text>
+  </Line>
+  <Line>
+   <Text>03 - INTERSECTION OTHER</Text>
+  </Line>
+  <Line>
+   <Text>04 - MIDBLOCK - MARKED CROSSWALK</Text>
+  </Line>
+  <Line>
+   <Text>05 - TRAVEL LANE - OTHER LOCATION</Text>
+  </Line>
+  <Line>
+   <Text>06 - BICYCLE LANE</Text>
+  </Line>
+  <Line>
+   <Text>07 - SHOULDER/ROADSIDE</Text>
+  </Line>
+  <Line>
+   <Text>08 - SIDEWALK</Text>
+  </Line>
+  <Line>
+   <Text>09 - MEDIAN/CROSSING ISLAND</Text>
+  </Line>
+  <Line>
+   <Text>10 - DRIVE WAY ACCESS</Text>
+  </Line>
+  <Line>
+   <Text>11 - SHARED-USE PATH OR TRAIL</Text>
+  </Line>
+  <Line>
+   <Text>12 - NON-TRAFFICWAY AREA</Text>
+  </Line>
+  <Line>
+   <Text>99 - OTHER/UNKNOWN</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="175.46" lly="512.93" urx="204.48" ury="516.93">
+  <Line>
+   <Text>TYPE OF USE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="178.13" lly="499.90" urx="183.69" ury="509.89">
+  <Line>
+   <Text>1</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="175.46" lly="468.36" ulx="175.46" uly="495.82" urx="214.18" ury="493.82" lrx="214.18" lry="468.36">
+  <Line>
+   <Text>1 - PERSONAL</Text>
+  </Line>
+  <Line>
+   <Text>2 - COMMERCIAL</Text>
+  </Line>
+  <Line>
+   <Text>3 - GOVERNMENT</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="182.02" lly="442.80" urx="214.76" ury="453.57">
+  <Line>
+   <Text>IN EMERGENCY</Text>
+  </Line>
+  <Line>
+   <Text>RESPONSE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="224.35" lly="512.42" urx="247.82" ury="516.42">
+  <Line>
+   <Text>UNIT TYPE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="232.99" lly="498.67" urx="244.11" ury="508.67">
+  <Line>
+   <Text>99</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="257.76" lly="504.29" urx="365.08" ury="508.29">
+  <Line>
+   <Text>PASSENGER VEHICLES (LESS THAN 9 PASSENGERS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="265.54" lly="496.44" ulx="265.54" uly="502.44" urx="310.71" ury="500.44" lrx="310.71" lry="496.44">
+  <Line>
+   <Text>01 - SUB -COMPACT</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="228.10" lly="484.49" ulx="228.10" uly="495.89" urx="298.83" ury="493.89" lrx="298.83" lry="483.34">
+  <Line>
+   <Text>02 - COMPACT</Text>
+  </Line>
+  <Line>
+   <Text>99 - UNKNOWN 03 - MID SIZE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="228.10" lly="477.72" ulx="228.10" uly="481.72" urx="300.76" ury="480.78" lrx="300.76" lry="476.78">
+  <Line>
+   <Text>OR HIT/SKIP 04 - FULL SIZE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="265.54" lly="424.44" ulx="265.54" uly="476.23" urx="340.88" ury="474.23" lrx="340.88" lry="424.44">
+  <Line>
+   <Text>05 - MINIVAN</Text>
+  </Line>
+  <Line>
+   <Text>06 - SPORT UTILITY VEHICLE</Text>
+  </Line>
+  <Line>
+   <Text>07 - PICKUP</Text>
+  </Line>
+  <Line>
+   <Text>08 - VAN</Text>
+  </Line>
+  <Line>
+   <Text>09 - MOTORCYCLE</Text>
+  </Line>
+  <Line>
+   <Text>10 - MOTORIZED BICYCLE</Text>
+  </Line>
+  <Line>
+   <Text>11 - SNOWMOBILE/ATV</Text>
+  </Line>
+  <Line>
+   <Text>12 - OTHER PASSENGER VEHICLE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="367.85" lly="504.29" ulx="367.85" uly="508.29" urx="582.68" ury="510.29" lrx="582.68" lry="504.29">
+  <Line>
+   <Text>MED/HEAVY TRUCKS OR COMBO UNITS &gt; 10K LBS BUS/VAN/LIMO(9 OR MORE INCLUDING DRIVER)</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="370.37" lly="448.92" ulx="370.37" uly="502.58" urx="477.87" ury="500.58" lrx="477.87" lry="448.92">
+  <Line>
+   <Text>13 - SINGLE UNIT TRUCK OR VAN 2AXLE, 6 TIRES</Text>
+  </Line>
+  <Line>
+   <Text>14 - SINGLE UNIT TRUCK ; 3+ AXLES</Text>
+  </Line>
+  <Line>
+   <Text>15 - SINGLE UNIT TRUCK / TRAILER</Text>
+  </Line>
+  <Line>
+   <Text>16 - TRUCK/TRACTOR (BOBTAIL)</Text>
+  </Line>
+  <Line>
+   <Text>17 - TRACTOR/SEMI-TRAILER</Text>
+  </Line>
+  <Line>
+   <Text>18 - TRACTOR/DOUBLE</Text>
+  </Line>
+  <Line>
+   <Text>19 - TRACTOR/TRIPLES</Text>
+  </Line>
+  <Line>
+   <Text>20 - OTHER MED/HEAVY VEHICLE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="400.61" lly="430.92" urx="459.13" ury="436.92">
+  <Line>
+   <Text>HAS HM PLACARD</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="482.76" lly="489.02" urx="565.40" ury="501.94">
+  <Line>
+   <Text>21 - BUS/VAN (9-15 SEATS, INC DRIVER)</Text>
+  </Line>
+  <Line>
+   <Text>22 - BUS (16+ SEATS, INC DRIVER)</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="480.02" lly="481.54" urx="514.44" ury="485.54">
+  <Line>
+   <Text>NON-MOTORIST</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="482.76" lly="468.00" ulx="482.76" uly="480.91" urx="580.78" ury="478.91" lrx="580.78" lry="468.00">
+  <Line>
+   <Text>23 - ANIMAL WITH RIDER</Text>
+  </Line>
+  <Line>
+   <Text>24 - ANIMAL WITH BUGGY, WAGON, SURREY</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="482.76" lly="455.04" ulx="482.76" uly="467.09" urx="543.28" ury="465.09" lrx="543.28" lry="455.04">
+  <Line>
+   <Text>25 - BICYCLE/PEDACYCLIST</Text>
+  </Line>
+  <Line>
+   <Text>26 - PEDESTRIAN/SKATER</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="482.76" lly="448.92" ulx="482.76" uly="454.92" urx="545.66" ury="452.92" lrx="545.66" lry="448.92">
+  <Line>
+   <Text>27 - OTHER NON-MOTORIST</Text>
+  </Line>
+ </Box>
+</Para>
+<Table llx="39.46" lly="365.58" urx="579.31" ury="420.19">
+ <Row>
+  <Cell llx="39.46" lly="365.58" urx="238.52" ury="420.19">
+   <Para>
+    <Box llx="39.46" lly="414.00" ulx="39.46" uly="418.00" urx="105.64" ury="418.79" lrx="105.64" lry="414.79">
+     <Line>
+      <Text>SPECIAL FUNCTION01 - NONE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="80.78" lly="408.38" ulx="80.78" uly="414.38" urx="102.77" ury="412.38" lrx="102.77" lry="408.38">
+     <Line>
+      <Text>02 - TAXI</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="52.70" lly="400.25" urx="160.76" ury="410.25">
+     <Line>
+      <Text>1 03 - RENTAL TRUCK (OVER 10K LBS)</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="80.78" lly="369.79" urx="172.35" ury="401.50">
+     <Line>
+      <Text>04 - BUS - SCHOOL (PUBLIC OR PRIVATE)</Text>
+     </Line>
+     <Line>
+      <Text>05 - BUS - TRANSIT</Text>
+     </Line>
+     <Line>
+      <Text>06 - BUS - CHARTER</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Line>
+     <Text>07 - BUS - SHUTTLE</Text>
+    </Line>
+    <Line>
+     <Text>08 - BUS - OTHER</Text>
+    </Line>
+   </Para>
+   <Para>
+    <Box llx="173.23" lly="367.78" ulx="173.23" uly="420.79" urx="238.52" ury="418.79" lrx="238.52" lry="367.78">
+     <Line>
+      <Text>09 - AMBULANCE</Text>
+     </Line>
+     <Line>
+      <Text>10 - FIRE</Text>
+     </Line>
+     <Line>
+      <Text>11 - HIGHWAY/MAINTENANCE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Line>
+     <Text>12 - MILITARY</Text>
+    </Line>
+    <Line>
+     <Text>13 - POLICE</Text>
+    </Line>
+    <Line>
+     <Text>14 - PUBLIC UTILITY</Text>
+    </Line>
+    <Line>
+     <Text>15 - OTHER GOVERNMENT</Text>
+    </Line>
+    <Line>
+     <Text>16 - CONSTRUCTION EQIP.</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="242.73" lly="365.58" urx="396.60" ury="420.19">
+   <Para>
+    <Box llx="244.73" lly="383.11" ulx="244.73" uly="420.79" urx="313.47" ury="418.79" lrx="313.47" lry="383.11">
+     <Line>
+      <Text>17 - FARM VEHICLE</Text>
+     </Line>
+     <Line>
+      <Text>18 - FARM EQUIPMENT</Text>
+     </Line>
+     <Line>
+      <Text>19 - MOTORHOME</Text>
+     </Line>
+     <Line>
+      <Text>20 - GOLF CART</Text>
+     </Line>
+     <Line>
+      <Text>21 - TRAIN</Text>
+     </Line>
+     <Line>
+      <Text>22 - OTHER (EXPLAIN IN NARRATIVE)</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="319.25" lly="414.00" urx="368.50" ury="418.00">
+     <Line>
+      <Text>MOST DAMAGED AREA</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="350.28" lly="407.16" ulx="350.28" uly="413.16" urx="375.14" ury="411.16" lrx="375.14" lry="407.16">
+     <Line>
+      <Text>01 - NONE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="327.89" lly="394.34" urx="396.60" ury="410.25">
+     <Line>
+      <Text>99 02 - CENTER FRONT</Text>
+     </Line>
+     <Line>
+      <Text>03 - RIGHT FRONT</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="319.25" lly="389.09" ulx="319.25" uly="393.09" urx="387.76" ury="391.94" lrx="387.76" lry="387.94">
+     <Line>
+      <Text>IMPACT ARE 04 - RIGHT SIDE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="350.42" lly="381.46" ulx="350.42" uly="387.46" urx="389.74" ury="385.46" lrx="389.74" lry="381.46">
+     <Line>
+      <Text>05 - RIGHT REAR</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="327.89" lly="368.78" urx="393.78" ury="385.33">
+     <Line>
+      <Text>99 06 - REAR CENTER</Text>
+     </Line>
+     <Line>
+      <Text>07 - LEFT REAR</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="405.74" lly="365.58" urx="466.53" ury="420.19">
+   <Para>
+    <Box llx="407.74" lly="367.78" ulx="407.74" uly="413.16" urx="464.53" ury="411.16" lrx="464.53" lry="367.78">
+     <Line>
+      <Text>08 - LEFT SIDE</Text>
+     </Line>
+     <Line>
+      <Text>09 - LEFT FRONT</Text>
+     </Line>
+     <Line>
+      <Text>10 - TOP AND WINDOWS</Text>
+     </Line>
+     <Line>
+      <Text>11 - UNDERCARRIAGE</Text>
+     </Line>
+     <Line>
+      <Text>12 - LOAD/TRAILER</Text>
+     </Line>
+     <Line>
+      <Text>13 - TOTAL (ALL AREAS)</Text>
+     </Line>
+     <Line>
+      <Text>14 - OTHER</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="472.75" lly="365.58" urx="507.16" ury="420.19">
+   <Para>
+    <Box llx="472.75" lly="407.16" ulx="472.75" uly="413.16" urx="507.16" ury="411.16" lrx="507.16" lry="407.16">
+     <Line>
+      <Text>99 - UNKNOWN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="515.88" lly="365.58" urx="579.31" ury="420.19">
+   <Para>
+    <Box llx="515.88" lly="414.79" urx="532.34" ury="418.79">
+     <Line>
+      <Text>ACTION</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="518.33" lly="399.24" urx="523.89" ury="409.24">
+     <Line>
+      <Text>9</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="529.49" lly="380.02" ulx="529.49" uly="411.72" urx="577.31" ury="409.72" lrx="577.31" lry="380.02">
+     <Line>
+      <Text>1 - NON- CONTACT</Text>
+     </Line>
+     <Line>
+      <Text>2 - NON-COLLISION</Text>
+     </Line>
+     <Line>
+      <Text>3 - STRIKING</Text>
+     </Line>
+     <Line>
+      <Text>4 - STRUCK</Text>
+     </Line>
+     <Line>
+      <Text>5 - STRIKING/STRUCK</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="529.63" lly="372.67" ulx="529.63" uly="378.67" urx="560.73" ury="376.67" lrx="560.73" lry="372.67">
+     <Line>
+      <Text>9 - UNKNOWN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table llx="40.32" lly="356.58" urx="87.89" ury="361.38">
+ <Row>
+  <Cell llx="40.32" lly="356.58" urx="87.89" ury="361.38">
+   <Para>
+    <Box llx="40.32" lly="356.98" urx="87.89" ury="360.98">
+     <Line>
+      <Text>PRE- CRASH ACTIONS</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="96.91" lly="356.58" urx="162.62" ury="361.38">
+  </Cell>
+  <Cell llx="173.46" lly="356.58" urx="262.31" ury="361.38">
+  </Cell>
+  <Cell llx="266.49" lly="356.58" urx="336.41" ury="361.38">
+  </Cell>
+  <Cell llx="350.71" lly="356.58" urx="478.42" ury="361.38">
+  </Cell>
+  <Cell llx="486.22" lly="356.58" urx="566.69" ury="361.38">
+  </Cell>
+ </Row>
+ <Row>
+  <Cell llx="40.32" lly="356.58" urx="87.89" ury="361.38">
+   <Para>
+    <Box llx="49.03" lly="343.22" urx="60.15" ury="353.22">
+     <Line>
+      <Text>99</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="43.49" lly="321.05" ulx="43.49" uly="327.05" urx="77.90" ury="325.05" lrx="77.90" lry="321.05">
+     <Line>
+      <Text>99 - UNKNOWN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="96.91" lly="356.58" urx="162.62" ury="361.38">
+   <Para>
+    <Box llx="96.91" lly="347.90" urx="119.64" ury="351.90">
+     <Line>
+      <Text>MOTORIST</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="102.74" lly="306.50" ulx="102.74" uly="344.62" urx="162.62" ury="342.62" lrx="162.62" lry="306.50">
+     <Line>
+      <Text>01 - STRAIGHT AHEAD</Text>
+     </Line>
+     <Line>
+      <Text>02 - BACKING</Text>
+     </Line>
+     <Line>
+      <Text>03 - CHANGING LANES</Text>
+     </Line>
+     <Line>
+      <Text>04 - OVERTAKING/PASSING</Text>
+     </Line>
+     <Line>
+      <Text>05 - MAKING RIGHT TURN</Text>
+     </Line>
+     <Line>
+      <Text>06 - MAKING LEFT TURN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="173.46" lly="356.58" urx="262.31" ury="361.38">
+   <Para>
+    <Box llx="175.46" lly="332.21" ulx="175.46" uly="344.62" urx="242.07" ury="342.62" lrx="242.07" lry="332.21">
+     <Line>
+      <Text>07 - MAKING U-TURN</Text>
+     </Line>
+     <Line>
+      <Text>08 - ENTERING TRAFFIC LANE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="175.46" lly="304.99" ulx="175.46" uly="331.15" urx="260.31" ury="329.15" lrx="260.31" lry="304.99">
+     <Line>
+      <Text>09 - LEAVING TRAFFIC LANE</Text>
+     </Line>
+     <Line>
+      <Text>10 - PARKED</Text>
+     </Line>
+     <Line>
+      <Text>11 - SLOWING OR STOPPED IN TRAFFIC</Text>
+     </Line>
+     <Line>
+      <Text>12 - DRIVERLESS</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="266.49" lly="356.58" urx="336.41" ury="361.38">
+   <Para>
+    <Box llx="268.49" lly="332.21" ulx="268.49" uly="344.47" urx="334.41" ury="342.47" lrx="334.41" lry="332.21">
+     <Line>
+      <Text>13 - NEGOTIATING A CURVE</Text>
+     </Line>
+     <Line>
+      <Text>14 - OTHER MOTORIST ACTIO</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="350.71" lly="356.58" urx="478.42" ury="361.38">
+   <Para>
+    <Box llx="350.71" lly="347.90" urx="385.75" ury="351.90">
+     <Line>
+      <Text>NON-MOTORIST</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="361.15" lly="332.64" ulx="361.15" uly="344.90" urx="478.42" ury="342.90" lrx="478.42" lry="332.64">
+     <Line>
+      <Text>15 - ENTERING OR CROSSING SPECIFIED LOCATIO</Text>
+     </Line>
+     <Line>
+      <Text>16 - WALKING,RUNNING, JOGGING, PLAYING, CYCLING</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="361.15" lly="306.14" ulx="361.15" uly="331.15" urx="449.96" ury="329.15" lrx="449.96" lry="306.14">
+     <Line>
+      <Text>17 - WORKING</Text>
+     </Line>
+     <Line>
+      <Text>18 - PUSHING VEHICLE</Text>
+     </Line>
+     <Line>
+      <Text>19 - APPROACHING OR LEAVING VEHICLE</Text>
+     </Line>
+     <Line>
+      <Text>20 - STANDING</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="486.22" lly="356.58" urx="566.69" ury="361.38">
+   <Para>
+    <Box llx="486.22" lly="338.47" ulx="486.22" uly="344.47" urx="566.69" ury="342.47" lrx="566.69" lry="338.47">
+     <Line>
+      <Text>21 - OTHER NON-MOTORIST ACTION</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Para>
+ <Box llx="41.26" lly="286.78" urx="108.87" ury="297.69">
+  <Line>
+   <Text>CONTRIBUTING CIRCUMSTANCE</Text>
+  </Line>
+  <Line>
+   <Text>PRIMARY</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="48.38" lly="273.02" urx="59.50" ury="283.02">
+  <Line>
+   <Text>99</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="43.49" lly="254.16" urx="70.17" ury="258.16">
+  <Line>
+   <Text>SECONDARY</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="43.49" lly="222.70" ulx="43.49" uly="228.70" urx="77.90" ury="226.70" lrx="77.90" lry="222.70">
+  <Line>
+   <Text>99 - UNKNOWN</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="94.25" lly="286.78" urx="116.97" ury="290.78">
+  <Line>
+   <Text>MOTORIST</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="96.62" lly="228.96" ulx="96.62" uly="286.30" urx="181.90" ury="284.30" lrx="181.90" lry="228.96">
+  <Line>
+   <Text>01 - NONE</Text>
+  </Line>
+  <Line>
+   <Text>02 - FAILURE TO YIELD</Text>
+  </Line>
+  <Line>
+   <Text>03 - RAN RED LIGHT</Text>
+  </Line>
+  <Line>
+   <Text>04 - RAN STOP SIGN</Text>
+  </Line>
+  <Line>
+   <Text>05 - EXCEEDED SPEED LIMIT</Text>
+  </Line>
+  <Line>
+   <Text>06 - UNSAFE SPEED</Text>
+  </Line>
+  <Line>
+   <Text>07 - IMPROPER TURN</Text>
+  </Line>
+  <Line>
+   <Text>08 - LEFT OF CENTER</Text>
+  </Line>
+  <Line>
+   <Text>09 - FOLLOWED TOO CLOSELY/ACDA</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="96.91" lly="222.26" ulx="96.91" uly="228.26" urx="162.89" ury="226.26" lrx="162.89" lry="222.26">
+  <Line>
+   <Text>10 - IMPROPER LANE CHANGE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="108.57" lly="215.50" urx="153.60" ury="219.50">
+  <Line>
+   <Text>/PASSING/OFF ROAD</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="196.20" lly="214.85" ulx="196.20" uly="286.30" urx="327.01" ury="284.30" lrx="327.01" lry="214.85">
+  <Line>
+   <Text>11 - IMPROPER BACKING</Text>
+  </Line>
+  <Line>
+   <Text>12 - IMPROPER START FROM PARKED POSITION</Text>
+  </Line>
+  <Line>
+   <Text>13 - STOPPED OR PARKED ILLEGALLY</Text>
+  </Line>
+  <Line>
+   <Text>14 - OPERATING VEHICLE IN NEGLIGENT MANNER</Text>
+  </Line>
+  <Line>
+   <Text>15 - SWERVING TO AVOID (DUE TO EXTERNAL CONDITIONS)</Text>
+  </Line>
+  <Line>
+   <Text>16 - WRONG SIDE/WRONG WAY</Text>
+  </Line>
+  <Line>
+   <Text>17 - FALURE TO CONTROL</Text>
+  </Line>
+  <Line>
+   <Text>18 - VISION OBSTRUCTION</Text>
+  </Line>
+  <Line>
+   <Text>19 - OPERATING DEFECTIVE EQUIPMENT</Text>
+  </Line>
+  <Line>
+   <Text>20 - LOAD SHIFTING/FALLING/SPILLING</Text>
+  </Line>
+  <Line>
+   <Text>21 - OTHER IMPROPER ACTION</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="325.01" lly="286.78" urx="360.04" ury="290.78">
+  <Line>
+   <Text>NON-MOTORIST</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="331.06" lly="233.86" ulx="331.06" uly="286.37" urx="423.55" ury="284.37" lrx="423.55" lry="233.86">
+  <Line>
+   <Text>22 - NONE</Text>
+  </Line>
+  <Line>
+   <Text>23 - IMPROPER CROSSING</Text>
+  </Line>
+  <Line>
+   <Text>24 - DARTING</Text>
+  </Line>
+  <Line>
+   <Text>25 - LYING AND/OR ILLEGALLY IN ROADWAY</Text>
+  </Line>
+  <Line>
+   <Text>26 - FALURE TO YIELD RIGHT OF WAY</Text>
+  </Line>
+  <Line>
+   <Text>27 - NOT VISIBLE (DARK CLOTHING)</Text>
+  </Line>
+  <Line>
+   <Text>28 - INATTENTIVE</Text>
+  </Line>
+  <Line>
+   <Text>29 - FAILURE TO OBEY TRAFFIC SIGNS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="342.19" lly="227.09" urx="383.36" ury="231.09">
+  <Line>
+   <Text>/SIGNALS/OFFICER</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="331.06" lly="213.98" ulx="331.06" uly="226.25" urx="412.18" ury="224.25" lrx="412.18" lry="213.98">
+  <Line>
+   <Text>30 - WRONG SIDE OF THE ROAD</Text>
+  </Line>
+  <Line>
+   <Text>31 - OTHER NON-MOTORIST ACTION</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="457.56" lly="294.34" urx="498.23" ury="298.34">
+  <Line>
+   <Text>VEHICLE DEFECTS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="486.07" lly="219.82" ulx="486.07" uly="291.26" urx="571.16" ury="289.26" lrx="571.16" lry="219.82">
+  <Line>
+   <Text>01 - TURN SIGNALS</Text>
+  </Line>
+  <Line>
+   <Text>02 - HEAD LAMPS</Text>
+  </Line>
+  <Line>
+   <Text>03 - TAIL LAMPS</Text>
+  </Line>
+  <Line>
+   <Text>04 - BRAKES</Text>
+  </Line>
+  <Line>
+   <Text>05 - STEERING</Text>
+  </Line>
+  <Line>
+   <Text>06 - TIRE BLOWOUT</Text>
+  </Line>
+  <Line>
+   <Text>07 - WORN OR SLICK TIRES</Text>
+  </Line>
+  <Line>
+   <Text>08 - TRAILER EQUIPMENT DEFECTIVE</Text>
+  </Line>
+  <Line>
+   <Text>09 - MOTOR TROUBLE</Text>
+  </Line>
+  <Line>
+   <Text>10 - DISABLED FROM PRIOR ACCIDENT</Text>
+  </Line>
+  <Line>
+   <Text>11 - OTHER DEFECTS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="43.34" lly="200.59" urx="92.16" ury="204.59">
+  <Line>
+   <Text>SEQUENCE OF EVENTS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="41.18" lly="193.10" urx="208.39" ury="199.10">
+  <Line>
+   <Text>1 2 3 4 5 6</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="51.98" lly="188.42" urx="63.10" ury="198.42">
+  <Line>
+   <Text>21</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="46.44" lly="173.09" urx="67.20" ury="183.86">
+  <Line>
+   <Text>FIRST</Text>
+  </Line>
+  <Line>
+   <Text>HARMFUL</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="52.49" lly="166.32" urx="67.18" ury="170.32">
+  <Line>
+   <Text>EVENT</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="104.83" lly="179.86" urx="115.13" ury="183.86">
+  <Line>
+   <Text>Most</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="70.78" lly="172.73" urx="124.43" ury="182.73">
+  <Line>
+   <Text>1 HARMFUL 1</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="100.44" lly="166.32" urx="115.13" ury="170.32">
+  <Line>
+   <Text>EVENT</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="178.20" lly="174.74" ulx="178.20" uly="180.74" urx="212.61" ury="178.74" lrx="212.61" lry="174.74">
+  <Line>
+   <Text>99 - UNKNOWN</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="248.04" lly="199.73" urx="300.89" ury="203.73">
+  <Line>
+   <Text>NON-COLLISION EVENTS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="251.64" lly="192.53" ulx="251.64" uly="199.10" urx="400.72" ury="197.10" lrx="400.72" lry="192.53">
+  <Line>
+   <Text>01 - OVERTURN/ROLLOVER</Text>
+  </Line>
+  <Line>
+   <Text>06 - EQUIPMENT FAILURE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="251.64" lly="179.71" ulx="251.64" uly="192.12" urx="299.43" ury="190.12" lrx="299.43" lry="179.71">
+  <Line>
+   <Text>02 - FIRE/EXPLOSION</Text>
+  </Line>
+  <Line>
+   <Text>03 - IMMERSION</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="344.59" lly="180.22" ulx="344.59" uly="186.22" urx="404.67" ury="184.22" lrx="404.67" lry="180.22">
+  <Line>
+   <Text>07 - SEPARATION OF UNITS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="251.64" lly="173.23" ulx="251.64" uly="179.23" urx="286.45" ury="177.23" lrx="286.45" lry="173.23">
+  <Line>
+   <Text>04 - JACKKNIFE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="251.78" lly="166.82" ulx="251.78" uly="179.81" urx="405.98" ury="177.81" lrx="405.98" lry="167.40">
+  <Line>
+   <Text>08 - RAN OFF ROAD RIGHT</Text>
+  </Line>
+  <Line>
+   <Text>05 - CARGO/EQUIPMENT LOSS OR SHIFT 09 - RAN OFF ROAD LEFT</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="248.04" lly="157.46" urx="315.70" ury="161.46">
+  <Line>
+   <Text>COLLISION WITH FIXED, OBJECT</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="355.19" lly="188.21" ulx="355.19" uly="191.21" urx="413.53" ury="192.21" lrx="413.53" lry="188.21">
+  <Line>
+   <Text>(BLOWN TIRE, BRAKE FAILURE, ETC)</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="436.03" lly="186.12" ulx="436.03" uly="198.53" urx="493.52" ury="196.53" lrx="493.52" lry="186.12">
+  <Line>
+   <Text>10 - CROSS MEDIAN</Text>
+  </Line>
+  <Line>
+   <Text>11 - CROSS CENTER LINE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="448.75" lly="179.35" urx="519.77" ury="183.35">
+  <Line>
+   <Text>OPPOSITE DIRECTION OF TRAVEL</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="436.03" lly="173.23" ulx="436.03" uly="179.23" urx="493.39" ury="177.23" lrx="493.39" lry="173.23">
+  <Line>
+   <Text>12 - DOWNHILL RUNAWAY</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="436.03" lly="166.82" ulx="436.03" uly="172.82" urx="498.96" ury="170.82" lrx="498.96" lry="166.82">
+  <Line>
+   <Text>13 - OTHER NON-COLLISION</Text>
+  </Line>
+ </Box>
+</Para>
+<Table llx="40.32" lly="101.34" urx="572.16" ury="154.74">
+ <Row>
+  <Cell llx="40.32" lly="101.34" urx="237.09" ury="154.74">
+   <Para>
+    <Box llx="40.32" lly="150.34" urx="165.92" ury="154.34">
+     <Line>
+      <Text>COLLISION WITH PERSON, VEHICLE OR OBJECT NOT FIXED</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="47.09" lly="103.54" ulx="47.09" uly="148.06" urx="127.18" ury="146.06" lrx="127.18" lry="103.54">
+     <Line>
+      <Text>14 - PEDESTRIAN</Text>
+     </Line>
+     <Line>
+      <Text>15 - PEDALCYCLE</Text>
+     </Line>
+     <Line>
+      <Text>16 - RAILWAY VEHICLE (TRAIN, ENGINE)</Text>
+     </Line>
+     <Line>
+      <Text>17 - ANIMAL - FARM</Text>
+     </Line>
+     <Line>
+      <Text>18 - ANIMAL - DEER</Text>
+     </Line>
+     <Line>
+      <Text>19 - ANIMAL -OTHER</Text>
+     </Line>
+     <Line>
+      <Text>20 - MOTOR VEHICLE IN TRANSPORT</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="139.54" lly="129.24" ulx="139.54" uly="148.06" urx="237.09" ury="146.06" lrx="237.09" lry="129.24">
+     <Line>
+      <Text>21 - PARKED MOTOR VEHICLE</Text>
+     </Line>
+     <Line>
+      <Text>22 - WORK ZONE MAINTENANCE EQUIPMENT</Text>
+     </Line>
+     <Line>
+      <Text>23 - STRUCK BY FALLING, SHIFTING CARGO</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="151.20" lly="115.70" urx="224.36" ury="126.47">
+     <Line>
+      <Text>OR ANYTHING SET IN MOTION BY A</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Line>
+     <Text>MOTOR VEHICLE</Text>
+    </Line>
+   </Para>
+   <Para>
+    <Box llx="139.54" lly="108.14" ulx="139.54" uly="114.14" urx="207.42" ury="112.14" lrx="207.42" lry="108.14">
+     <Line>
+      <Text>24 - OTHER MOVABLE OBJECT</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="249.64" lly="101.34" urx="419.74" ury="154.74">
+   <Para>
+    <Box llx="251.50" lly="129.24" ulx="251.50" uly="154.54" urx="419.74" ury="152.54" lrx="419.74" lry="129.24">
+     <Line>
+      <Text>25 - IMPACT ATTENUATOR/CRASH CUSHION33 - MEDIAN CABLE BARRIER</Text>
+     </Line>
+     <Line>
+      <Text>26 - BRIDGE OVERHEAD STRUCTURE 34 - MEDIAN GUARDRAIL BARRIER</Text>
+     </Line>
+     <Line>
+      <Text>27 - BRIDGE PIER OR ABUTMENT 35 - MEDIAN CONCRETE BARRIER</Text>
+     </Line>
+     <Line>
+      <Text>28 - BRIDGE PARAPET</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="344.45" lly="129.24" ulx="344.45" uly="135.24" urx="410.38" ury="133.24" lrx="410.38" lry="129.24">
+     <Line>
+      <Text>36 - MEDIAN OTHER BARRIER</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="251.64" lly="122.83" ulx="251.64" uly="128.83" urx="399.96" ury="126.83" lrx="399.96" lry="122.83">
+     <Line>
+      <Text>29 - BRIDGE RAIL</Text>
+     </Line>
+     <Line>
+      <Text>37 - TRAFFIC SIGN POST</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="251.64" lly="116.35" ulx="251.64" uly="122.35" urx="405.87" ury="120.35" lrx="405.87" lry="116.35">
+     <Line>
+      <Text>30 - GUARDRAIL FACE</Text>
+     </Line>
+     <Line>
+      <Text>38 - OVERHEAD SIGN POST</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="251.64" lly="109.94" ulx="251.64" uly="115.94" urx="417.55" ury="113.94" lrx="417.55" lry="109.94">
+     <Line>
+      <Text>31 - GUARDRAILEND</Text>
+     </Line>
+     <Line>
+      <Text>39 - LIGHT/LUMINARIES SUPPORT</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="251.64" lly="103.54" ulx="251.64" uly="109.54" urx="385.71" ury="107.54" lrx="385.71" lry="103.54">
+     <Line>
+      <Text>32 - PORTABLE BARRIER</Text>
+     </Line>
+     <Line>
+      <Text>40 - UTILITY POLE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="434.03" lly="101.34" urx="490.97" ury="154.74">
+   <Para>
+    <Box llx="436.03" lly="148.54" ulx="436.03" uly="154.54" urx="490.97" ury="152.54" lrx="490.97" lry="148.54">
+     <Line>
+      <Text>41 - OTHER POST, POLE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="447.69" lly="141.77" urx="475.44" ury="145.77">
+     <Line>
+      <Text>OR SUPPORT</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="436.03" lly="135.65" ulx="436.03" uly="141.65" urx="468.00" ury="139.65" lrx="468.00" lry="135.65">
+     <Line>
+      <Text>42 - CULVART</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="436.03" lly="103.54" ulx="436.03" uly="135.24" urx="477.41" ury="133.24" lrx="477.41" lry="103.54">
+     <Line>
+      <Text>43 - CURB</Text>
+     </Line>
+     <Line>
+      <Text>44 - DITCH</Text>
+     </Line>
+     <Line>
+      <Text>45 - EMBANKMENT</Text>
+     </Line>
+     <Line>
+      <Text>46 - FENCE</Text>
+     </Line>
+     <Line>
+      <Text>47 - MAILBOX</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="500.06" lly="101.34" urx="572.16" ury="154.74">
+   <Para>
+    <Box llx="501.91" lly="135.65" ulx="501.91" uly="154.54" urx="572.16" ury="152.54" lrx="572.16" lry="135.65">
+     <Line>
+      <Text>48 - TREE</Text>
+     </Line>
+     <Line>
+      <Text>49 - FIRE HYDRANT</Text>
+     </Line>
+     <Line>
+      <Text>50 - WORK ZONE MAINTENANCE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="514.78" lly="128.88" urx="539.92" ury="132.88">
+     <Line>
+      <Text>EQUIPMENT</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="502.06" lly="122.83" ulx="502.06" uly="128.83" urx="568.53" ury="126.83" lrx="568.53" lry="122.83">
+     <Line>
+      <Text>51 - WALL, BUILDING, TUNNEL</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="502.06" lly="116.35" ulx="502.06" uly="122.35" urx="561.94" ury="120.35" lrx="561.94" lry="116.35">
+     <Line>
+      <Text>52 - OTHER FIXED OBJECT</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table llx="40.32" lly="46.26" urx="579.09" ury="95.38">
+ <Row>
+  <Cell llx="40.32" lly="46.26" urx="72.47" ury="95.38">
+   <Para>
+    <Box llx="40.32" lly="90.50" urx="68.12" ury="94.50">
+     <Line>
+      <Text>UNIT SPEED</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="40.32" lly="76.32" urx="45.88" ury="86.32">
+     <Line>
+      <Text>5</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="48.24" lly="60.34" urx="65.37" ury="64.34">
+     <Line>
+      <Text>STATED</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="48.24" lly="50.04" urx="72.47" ury="54.04">
+     <Line>
+      <Text>ESTIMATED</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="100.80" lly="46.26" urx="135.66" ury="95.38">
+   <Para>
+    <Box llx="100.80" lly="90.50" urx="135.66" ury="94.50">
+     <Line>
+      <Text>POSTED SPEED</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="101.81" lly="76.32" urx="112.93" ury="86.32">
+     <Line>
+      <Text>15</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="147.46" lly="46.26" urx="230.82" ury="95.38">
+   <Para>
+    <Box llx="147.46" lly="90.50" urx="188.66" ury="94.50">
+     <Line>
+      <Text>TRAFFIC CONTROL</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="152.35" lly="76.54" urx="163.47" ury="86.53">
+     <Line>
+      <Text>12</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="175.25" lly="48.46" ulx="175.25" uly="86.64" urx="228.82" ury="84.64" lrx="228.82" lry="48.46">
+     <Line>
+      <Text>01 - NO CONTROLS</Text>
+     </Line>
+     <Line>
+      <Text>02 - S TOP SIGN</Text>
+     </Line>
+     <Line>
+      <Text>03 - YIELD SIGN</Text>
+     </Line>
+     <Line>
+      <Text>04 - TRAFFIC SIGNAL</Text>
+     </Line>
+     <Line>
+      <Text>05 - TRAFFIC FLASHERS</Text>
+     </Line>
+     <Line>
+      <Text>06 - SCHOOL ZONE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="237.76" lly="46.26" urx="373.24" ury="95.38">
+   <Para>
+    <Box llx="239.62" lly="48.46" ulx="239.62" uly="86.64" urx="373.24" ury="84.64" lrx="373.24" lry="48.46">
+     <Line>
+      <Text>07 - RAILROAD CROSSBUCKS 13 - CROSSWALK LINES</Text>
+     </Line>
+     <Line>
+      <Text>08 - R AILROAD FLASHERS 14 - W ALK/DON&apos;T WALK</Text>
+     </Line>
+     <Line>
+      <Text>09 - R AILROAD GATES 15 - O THER</Text>
+     </Line>
+     <Line>
+      <Text>10 - COSTRUCTION BARRICADE 16 - NOT REPORTED</Text>
+     </Line>
+     <Line>
+      <Text>11 - PERSON (FLAGGER, OFFICER</Text>
+     </Line>
+     <Line>
+      <Text>12 - PAVEMENT MARKINGS</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="394.34" lly="46.26" urx="451.74" ury="95.38">
+   <Para>
+    <Box llx="394.34" lly="90.22" urx="430.64" ury="94.22">
+     <Line>
+      <Text>UNIT DIRECTION</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="396.43" lly="78.91" urx="409.43" ury="82.91">
+     <Line>
+      <Text>FROM</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="414.94" lly="74.23" urx="451.74" ury="84.23">
+     <Line>
+      <Text>TO</Text>
+     </Line>
+     <Line>
+      <Text>9 9</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="461.30" lly="46.26" urx="485.52" ury="95.38">
+   <Para>
+    <Box llx="461.30" lly="65.38" ulx="461.30" uly="91.03" urx="485.52" ury="89.03" lrx="485.52" lry="65.38">
+     <Line>
+      <Text>1 - NORTH</Text>
+     </Line>
+     <Line>
+      <Text>2 - SOUTH</Text>
+     </Line>
+     <Line>
+      <Text>3 - EAST</Text>
+     </Line>
+     <Line>
+      <Text>4 - WEST</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="501.70" lly="46.26" urx="537.45" ury="95.38">
+   <Para>
+    <Box llx="501.70" lly="65.38" ulx="501.70" uly="91.03" urx="537.45" ury="89.03" lrx="537.45" lry="65.38">
+     <Line>
+      <Text>5 - NORTHEAST</Text>
+     </Line>
+     <Line>
+      <Text>6 - NORTHWEST</Text>
+     </Line>
+     <Line>
+      <Text>7 - SOUTHEAST</Text>
+     </Line>
+     <Line>
+      <Text>8 - SOUTHWEST</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="547.99" lly="46.26" urx="579.09" ury="95.38">
+   <Para>
+    <Box llx="547.99" lly="85.03" ulx="547.99" uly="91.03" urx="579.09" ury="89.03" lrx="579.09" lry="85.03">
+     <Line>
+      <Text>9 - UNKNOWN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+</Content>
+</Page>
+<Page number="3" width="612.00" height="792.00">
+<Options> granularity=line tetml={}</Options>
+<Content granularity="line" dehyphenation="false" dropcap="false" font="false" geometry="false" shadow="false" sub="false" sup="false">
+<PlacedImage image="I3" x="38.43" y="728.65" width="56.35" height="25.80" />
+<Para>
+ <Box llx="100.08" lly="742.82" urx="136.36" ury="756.82">
+  <Line>
+   <Text>UNIT</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="414.36" lly="744.19" urx="467.53" ury="748.19">
+  <Line>
+   <Text>LOCAL REPORT NUMBER</Text>
+  </Line>
+ </Box>
+</Para>
+<Table llx="36.32" lly="666.89" ulx="36.32" uly="721.59" urx="448.01" ury="724.39" lrx="448.01" lry="667.47">
+ <Row>
+  <Cell colSpan="2" llx="40.32" lly="717.11" urx="71.82" ury="722.59">
+   <Para>
+    <Box llx="41.26" lly="716.11" urx="71.82" ury="720.11">
+     <Line>
+      <Text>UNIT NUMBER</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell colSpan="2" llx="81.43" lly="717.11" urx="161.66" ury="722.59">
+   <Para>
+    <Box llx="81.43" lly="716.69" urx="160.60" ury="720.69">
+     <Line>
+      <Text>OWNER NAME: LAST, FIRST, MIDDLE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="168.05" lly="717.11" urx="170.05" ury="722.59">
+   <Para>
+    <Box llx="168.05" lly="716.69" urx="170.05" ury="722.69">
+     <Line>
+      <Text>(</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="176.69" lly="717.11" urx="219.95" ury="722.59">
+   <Para>
+    <Box llx="178.28" lly="716.69" ulx="178.28" uly="720.69" urx="219.95" ury="722.69" lrx="219.95" lry="716.69">
+     <Line>
+      <Text>SAME AS DRIVER )</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="296.42" lly="717.11" urx="391.00" ury="722.59">
+   <Para>
+    <Box llx="297.43" lly="717.19" urx="389.94" ury="721.19">
+     <Line>
+      <Text>OWNER PHONE NUMBER - INC, AREA CODE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="395.86" lly="717.11" urx="444.01" ury="722.59">
+   <Para>
+    <Box llx="395.86" lly="717.19" urx="444.01" ury="723.19">
+     <Line>
+      <Text>( SAME AS DRIVER )</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="2" llx="40.32" lly="702.14" urx="71.82" ury="713.53">
+   <Para>
+    <Box llx="40.32" lly="703.01" urx="44.77" ury="711.01">
+     <Line>
+      <Text>2</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell colSpan="2" llx="81.43" lly="702.14" urx="161.66" ury="713.53">
+   <Para>
+    <Box llx="81.43" lly="704.74" urx="143.08" ury="712.74">
+     <Line>
+      <Text>Watts, Sharonda,</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="168.05" lly="702.14" urx="170.05" ury="713.53">
+  </Cell>
+  <Cell llx="176.69" lly="702.14" urx="219.95" ury="713.53">
+  </Cell>
+  <Cell llx="296.42" lly="702.14" urx="391.00" ury="713.53">
+   <Para>
+    <Box llx="296.42" lly="702.94" urx="346.23" ury="710.93">
+     <Line>
+      <Text>513-288-3410</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="395.86" lly="702.14" urx="444.01" ury="713.53">
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="3" llx="40.82" lly="695.04" urx="120.39" ury="699.84">
+   <Para>
+    <Box llx="40.82" lly="694.44" urx="119.33" ury="698.44">
+     <Line>
+      <Text>OWNER ADDRESS: CITY, STATE, ZIP</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell colSpan="3" llx="146.53" lly="695.04" urx="188.20" ury="699.84">
+   <Para>
+    <Box llx="146.53" lly="694.44" ulx="146.53" uly="698.44" urx="188.20" ury="700.44" lrx="188.20" lry="694.44">
+     <Line>
+      <Text>SAME AS DRIVER )</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell colSpan="6" llx="40.82" lly="677.74" urx="212.17" ury="685.74">
+   <Para>
+    <Box llx="40.82" lly="677.74" urx="212.17" ury="685.74">
+     <Line>
+      <Text>11755 Olympia Wy 222, Forest Park, OH, 45240</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+ <Row>
+  <Cell llx="41.26" lly="667.63" urx="63.92" ury="674.83">
+   <Para>
+    <Box llx="41.26" lly="668.09" urx="63.92" ury="674.09">
+     <Line>
+      <Text>LP STATE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell colSpan="3" llx="71.06" lly="667.63" urx="125.24" ury="674.83">
+   <Para>
+    <Box llx="71.06" lly="668.23" urx="125.24" ury="672.23">
+     <Line>
+      <Text>LICENSE PLATE NUMBER</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell colSpan="2" llx="219.67" lly="667.63" urx="292.43" ury="674.83">
+   <Para>
+    <Box llx="219.67" lly="667.87" urx="292.43" ury="671.87">
+     <Line>
+      <Text>VEHICLE IDENTIFICATION NUMBER</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="416.66" lly="667.63" urx="447.72" ury="674.83">
+   <Para>
+    <Box llx="416.66" lly="668.23" urx="447.72" ury="674.23">
+     <Line>
+      <Text># </Text>
+     </Line>
+     <Line>
+      <Text>OCCUPANTS</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Para>
+ <Box llx="419.69" lly="729.58" urx="491.96" ury="739.58">
+  <Line>
+   <Text>2018000001989</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="455.62" lly="716.47" urx="490.46" ury="720.47">
+  <Line>
+   <Text>DAMAGE SCALE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="458.14" lly="700.92" urx="463.70" ury="710.92">
+  <Line>
+   <Text>2</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="457.20" lly="688.61" ulx="457.20" uly="694.61" urx="478.75" ury="692.61" lrx="478.75" lry="688.61">
+  <Line>
+   <Text>1 - NONE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="457.20" lly="670.90" ulx="457.20" uly="676.90" urx="480.73" ury="674.90" lrx="480.73" lry="670.90">
+  <Line>
+   <Text>2 - MINOR</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="502.92" lly="710.78" urx="544.77" ury="721.19">
+  <Line>
+   <Text>DAMAGE AREA</Text>
+  </Line>
+  <Line>
+   <Text>FRONT</Text>
+  </Line>
+ </Box>
+</Para>
+<Table llx="41.26" lly="649.72" urx="492.46" ury="662.92">
+ <Row>
+  <Cell llx="41.26" lly="649.72" urx="53.25" ury="662.92">
+   <Para>
+    <Box llx="41.26" lly="652.32" urx="104.03" ury="661.18">
+     <Line>
+      <Text>OH</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell colSpan="2" llx="71.14" lly="649.72" urx="104.03" ury="662.92">
+   <Para>
+    <Line>
+     <Text>EKL2468</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="220.61" lly="649.72" urx="305.93" ury="662.92">
+   <Para>
+    <Box llx="220.61" lly="652.32" urx="449.41" ury="660.32">
+     <Line>
+      <Text>JN8AS5MT5DW552505</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="444.96" lly="649.72" urx="449.41" ury="662.92">
+   <Para>
+    <Line>
+     <Text>0</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell colSpan="2" llx="457.20" lly="649.72" urx="492.46" ury="662.92">
+   <Para>
+    <Box llx="457.20" lly="653.18" ulx="457.20" uly="659.18" urx="492.46" ury="657.18" lrx="492.46" lry="653.18">
+     <Line>
+      <Text>3 - FUNCTIONAL</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table llx="41.62" lly="628.19" urx="488.52" ury="647.70">
+ <Row>
+  <Cell colSpan="2" llx="41.62" lly="628.19" urx="74.74" ury="647.70">
+   <Para>
+    <Box llx="42.41" lly="642.31" urx="74.74" ury="646.31">
+     <Line>
+      <Text>VEHICLE YEAR</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="41.62" lly="631.30" urx="59.41" ury="639.30">
+     <Line>
+      <Text>2013</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="89.71" lly="628.19" urx="122.83" ury="647.70">
+   <Para>
+    <Box llx="89.71" lly="642.02" urx="122.83" ury="646.02">
+     <Line>
+      <Text>VEHICLE MAKE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="89.71" lly="630.79" urx="108.36" ury="638.79">
+     <Line>
+      <Text>NISS</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="244.10" lly="628.19" urx="280.88" ury="647.70">
+   <Para>
+    <Box llx="244.87" lly="641.16" urx="280.88" ury="645.16">
+     <Line>
+      <Text>VEHICLE MODEL</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="246.10" lly="630.94" urx="263.41" ury="638.93">
+     <Line>
+      <Text>RGE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="378.65" lly="628.19" urx="414.38" ury="647.70">
+   <Para>
+    <Box llx="378.65" lly="642.82" urx="414.38" ury="646.82">
+     <Line>
+      <Text>VEHICLE COLOR</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="379.22" lly="630.79" urx="396.10" ury="638.79">
+     <Line>
+      <Text>RED</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="457.20" lly="628.19" urx="488.52" ury="647.70">
+   <Para>
+    <Box llx="457.20" lly="635.40" ulx="457.20" uly="641.40" urx="488.52" ury="639.40" lrx="488.52" lry="635.40">
+     <Line>
+      <Text>4 - DISABLING</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table llx="50.33" lly="604.50" urx="549.58" ury="627.25">
+ <Row>
+  <Cell colSpan="2" llx="50.33" lly="604.50" urx="74.42" ury="627.25">
+   <Para>
+    <Box llx="50.33" lly="608.26" urx="74.42" ury="625.79">
+     <Line>
+      <Text>PROOF OF</Text>
+     </Line>
+     <Line>
+      <Text>INSURANCE</Text>
+     </Line>
+     <Line>
+      <Text>SHOWN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="83.09" lly="604.50" urx="130.43" ury="627.25">
+   <Para>
+    <Box llx="83.09" lly="622.37" urx="130.43" ury="626.37">
+     <Line>
+      <Text>INSURANCE COMPANY</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="83.09" lly="608.33" urx="112.84" ury="616.33">
+     <Line>
+      <Text>All State</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="229.39" lly="604.50" urx="269.42" ury="627.25">
+   <Para>
+    <Box llx="229.68" lly="621.72" urx="266.08" ury="625.72">
+     <Line>
+      <Text>POLICY NUMBER</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="229.39" lly="608.40" urx="269.42" ury="616.40">
+     <Line>
+      <Text>992380963</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="342.86" lly="604.50" urx="367.27" ury="627.25">
+   <Para>
+    <Box llx="342.86" lly="620.42" urx="367.27" ury="624.42">
+     <Line>
+      <Text>TOWED BY</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="457.20" lly="604.50" urx="488.30" ury="627.25">
+   <Para>
+    <Box llx="457.20" lly="617.69" ulx="457.20" uly="623.69" urx="488.30" ury="621.69" lrx="488.30" lry="617.69">
+     <Line>
+      <Text>9 - UNKNOWN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="537.05" lly="604.50" urx="549.58" ury="627.25">
+  </Cell>
+  <Cell llx="537.05" lly="604.50" urx="549.58" ury="627.25">
+   <Para>
+    <Box llx="537.05" lly="605.38" urx="549.58" ury="609.38">
+     <Line>
+      <Text>REAR</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<PlacedImage image="I2" x="509.25" y="601.15" width="67.20" height="115.20" />
+<Para>
+ <Box llx="40.03" lly="596.23" urx="546.26" ury="600.81">
+  <Line>
+   <Text>CARRIER NAME, ADDRESS, CITY, STATE, ZIP</Text>
+  </Line>
+  <Line>
+   <Text>CARRIER PHONE - INCLUDE AREA CODE</Text>
+  </Line>
+ </Box>
+</Para>
+<Table llx="39.53" lly="522.04" urx="583.65" ury="584.27">
+ <Row>
+  <Cell llx="39.53" lly="522.04" urx="102.16" ury="584.27">
+   <Para>
+    <Box llx="41.62" lly="576.36" urx="64.19" ury="582.36">
+     <Line>
+      <Text>US DOT</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="39.53" lly="558.07" urx="90.46" ury="564.07">
+     <Line>
+      <Text>HM PLACARD ID NO.</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="76.68" lly="526.03" urx="102.16" ury="538.80">
+     <Line>
+      <Text>HM CLASS</Text>
+     </Line>
+     <Line>
+      <Text>NUMBER</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="111.82" lly="522.04" urx="213.18" ury="584.27">
+   <Para>
+    <Box llx="111.82" lly="576.07" ulx="111.82" uly="580.07" urx="190.24" ury="582.07" lrx="190.24" lry="576.07">
+     <Line>
+      <Text>VEHICLE WEIGHT GVWR/GCWR</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="127.22" lly="554.62" ulx="127.22" uly="573.94" urx="211.18" ury="571.94" lrx="211.18" lry="554.62">
+     <Line>
+      <Text>1 - LESS THAN OR EQUAL TO 10K LBS</Text>
+     </Line>
+     <Line>
+      <Text>2 - 10,001 TO 26,000K LBS</Text>
+     </Line>
+     <Line>
+      <Text>3 - MORE THAN 26,000K LBS.</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="127.44" lly="530.86" urx="177.72" ury="541.62">
+     <Line>
+      <Text>HAZARDOUS MATERIAL</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Line>
+     <Text>RELEASED</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="218.88" lly="522.04" urx="404.08" ury="584.27">
+   <Para>
+    <Box llx="218.88" lly="576.36" urx="262.01" ury="580.36">
+     <Line>
+      <Text>CARGO BODY TYPE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="244.01" lly="570.17" ulx="244.01" uly="576.17" urx="342.67" ury="574.17" lrx="342.67" lry="570.17">
+     <Line>
+      <Text>01 - NO CARGO BODY TYPE/NOT APPLICABL</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="228.53" lly="525.17" urx="370.40" ury="572.61">
+     <Line>
+      <Text>1 02 - BUS/ VAN (9-15 SEATS, INC DRIVER)</Text>
+     </Line>
+     <Line>
+      <Text>03 - BUS (16+ SEATS, INC DRIVER)</Text>
+     </Line>
+     <Line>
+      <Text>04 - VEHICLE TOWING ANOTHER VEHICLE 12 - DUMP</Text>
+     </Line>
+     <Line>
+      <Text>05 - LOGGING</Text>
+     </Line>
+     <Line>
+      <Text>06 - INTERMODAL CONTAINER CHASIS</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Line>
+     <Text>07 - CARGO VAN/ENCLOSED BOX</Text>
+    </Line>
+    <Line>
+     <Text>08 - GRAIN, CHIPS, GRAVEL</Text>
+    </Line>
+   </Para>
+   <Para>
+    <Box llx="345.31" lly="557.21" ulx="345.31" uly="576.60" urx="387.30" ury="574.60" lrx="387.30" lry="557.21">
+     <Line>
+      <Text>09 - POLE</Text>
+     </Line>
+     <Line>
+      <Text>10 - CARGO TANK</Text>
+     </Line>
+     <Line>
+      <Text>11 - FLAT BED</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="345.31" lly="523.80" ulx="345.31" uly="549.82" urx="402.08" ury="547.82" lrx="402.08" lry="523.80">
+     <Line>
+      <Text>13 - CONCRETE MIXER</Text>
+     </Line>
+     <Line>
+      <Text>14 - AUTO TRANSPORTER</Text>
+     </Line>
+     <Line>
+      <Text>15 - GARBAGE /REFUSE</Text>
+     </Line>
+     <Line>
+      <Text>99 - OTHER/UNKNOWN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="409.32" lly="522.04" urx="583.65" ury="584.27">
+   <Para>
+    <Box llx="409.32" lly="576.43" urx="466.86" ury="580.43">
+     <Line>
+      <Text>TRAFFICWAY DESCRIPTION</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="421.92" lly="569.66" ulx="421.92" uly="575.66" urx="485.14" ury="573.66" lrx="485.14" lry="569.66">
+     <Line>
+      <Text>1 - T WO-WAY, NOT DIVIDED</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="412.42" lly="540.43" urx="581.65" ury="573.11">
+     <Line>
+      <Text>1 2 - T WO-WAY, NOT DIVIDED, CONTINUOUS LEFT TURN LANE</Text>
+     </Line>
+     <Line>
+      <Text>3 - T WO-WAY, DIVIDED, UNPROTECTED(PAINTED OR GRASS &gt;4FT.) MEDIA</Text>
+     </Line>
+     <Line>
+      <Text>4 - T WO-WAY, DIVIDED, POSITIVE MEDIANBARRIER</Text>
+     </Line>
+     <Line>
+      <Text>5 - ONE-WAY TRAFFICWAY</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="422.06" lly="528.62" urx="457.01" ury="532.62">
+     <Line>
+      <Text>HIT / SKIP UNIT</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Para>
+ <Box llx="42.05" lly="512.64" urx="138.55" ury="516.64">
+  <Line>
+   <Text>NON-MOTORIST LOCATION PRIOR TO IMPACT</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="67.68" lly="426.10" ulx="67.68" uly="511.44" urx="159.09" ury="509.44" lrx="159.09" lry="426.10">
+  <Line>
+   <Text>01 - INTERSECTION - MARKED CROSSWAL</Text>
+  </Line>
+  <Line>
+   <Text>02 - INTERSECTION - NO CROSSWALK</Text>
+  </Line>
+  <Line>
+   <Text>03 - INTERSECTION OTHER</Text>
+  </Line>
+  <Line>
+   <Text>04 - MIDBLOCK - MARKED CROSSWALK</Text>
+  </Line>
+  <Line>
+   <Text>05 - TRAVEL LANE - OTHER LOCATION</Text>
+  </Line>
+  <Line>
+   <Text>06 - BICYCLE LANE</Text>
+  </Line>
+  <Line>
+   <Text>07 - SHOULDER/ROADSIDE</Text>
+  </Line>
+  <Line>
+   <Text>08 - SIDEWALK</Text>
+  </Line>
+  <Line>
+   <Text>09 - MEDIAN/CROSSING ISLAND</Text>
+  </Line>
+  <Line>
+   <Text>10 - DRIVE WAY ACCESS</Text>
+  </Line>
+  <Line>
+   <Text>11 - SHARED-USE PATH OR TRAIL</Text>
+  </Line>
+  <Line>
+   <Text>12 - NON-TRAFFICWAY AREA</Text>
+  </Line>
+  <Line>
+   <Text>99 - OTHER/UNKNOWN</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="175.46" lly="512.93" urx="204.48" ury="516.93">
+  <Line>
+   <Text>TYPE OF USE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="175.46" lly="470.38" ulx="175.46" uly="497.83" urx="214.18" ury="495.83" lrx="214.18" lry="470.38">
+  <Line>
+   <Text>1 - PERSONAL</Text>
+  </Line>
+  <Line>
+   <Text>2 - COMMERCIAL</Text>
+  </Line>
+  <Line>
+   <Text>3 - GOVERNMENT</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="182.02" lly="442.80" urx="214.76" ury="453.57">
+  <Line>
+   <Text>IN EMERGENCY</Text>
+  </Line>
+  <Line>
+   <Text>RESPONSE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="224.35" lly="512.42" urx="247.82" ury="516.42">
+  <Line>
+   <Text>UNIT TYPE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="235.80" lly="498.67" urx="241.36" ury="508.67">
+  <Line>
+   <Text>6</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="257.76" lly="504.29" urx="365.08" ury="508.29">
+  <Line>
+   <Text>PASSENGER VEHICLES (LESS THAN 9 PASSENGERS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="265.54" lly="496.44" ulx="265.54" uly="502.44" urx="310.71" ury="500.44" lrx="310.71" lry="496.44">
+  <Line>
+   <Text>01 - SUB -COMPACT</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="228.10" lly="484.49" ulx="228.10" uly="495.89" urx="298.83" ury="493.89" lrx="298.83" lry="483.34">
+  <Line>
+   <Text>02 - COMPACT</Text>
+  </Line>
+  <Line>
+   <Text>99 - UNKNOWN 03 - MID SIZE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="228.10" lly="477.72" ulx="228.10" uly="481.72" urx="300.76" ury="480.78" lrx="300.76" lry="476.78">
+  <Line>
+   <Text>OR HIT/SKIP 04 - FULL SIZE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="265.54" lly="424.44" ulx="265.54" uly="476.23" urx="340.88" ury="474.23" lrx="340.88" lry="424.44">
+  <Line>
+   <Text>05 - MINIVAN</Text>
+  </Line>
+  <Line>
+   <Text>06 - SPORT UTILITY VEHICLE</Text>
+  </Line>
+  <Line>
+   <Text>07 - PICKUP</Text>
+  </Line>
+  <Line>
+   <Text>08 - VAN</Text>
+  </Line>
+  <Line>
+   <Text>09 - MOTORCYCLE</Text>
+  </Line>
+  <Line>
+   <Text>10 - MOTORIZED BICYCLE</Text>
+  </Line>
+  <Line>
+   <Text>11 - SNOWMOBILE/ATV</Text>
+  </Line>
+  <Line>
+   <Text>12 - OTHER PASSENGER VEHICLE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="367.85" lly="504.29" ulx="367.85" uly="508.29" urx="582.68" ury="510.29" lrx="582.68" lry="504.29">
+  <Line>
+   <Text>MED/HEAVY TRUCKS OR COMBO UNITS &gt; 10K LBS BUS/VAN/LIMO(9 OR MORE INCLUDING DRIVER)</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="370.37" lly="448.92" ulx="370.37" uly="502.58" urx="477.87" ury="500.58" lrx="477.87" lry="448.92">
+  <Line>
+   <Text>13 - SINGLE UNIT TRUCK OR VAN 2AXLE, 6 TIRES</Text>
+  </Line>
+  <Line>
+   <Text>14 - SINGLE UNIT TRUCK ; 3+ AXLES</Text>
+  </Line>
+  <Line>
+   <Text>15 - SINGLE UNIT TRUCK / TRAILER</Text>
+  </Line>
+  <Line>
+   <Text>16 - TRUCK/TRACTOR (BOBTAIL)</Text>
+  </Line>
+  <Line>
+   <Text>17 - TRACTOR/SEMI-TRAILER</Text>
+  </Line>
+  <Line>
+   <Text>18 - TRACTOR/DOUBLE</Text>
+  </Line>
+  <Line>
+   <Text>19 - TRACTOR/TRIPLES</Text>
+  </Line>
+  <Line>
+   <Text>20 - OTHER MED/HEAVY VEHICLE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="400.61" lly="430.92" urx="459.13" ury="436.92">
+  <Line>
+   <Text>HAS HM PLACARD</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="482.76" lly="489.02" urx="565.40" ury="501.94">
+  <Line>
+   <Text>21 - BUS/VAN (9-15 SEATS, INC DRIVER)</Text>
+  </Line>
+  <Line>
+   <Text>22 - BUS (16+ SEATS, INC DRIVER)</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="480.02" lly="481.54" urx="514.44" ury="485.54">
+  <Line>
+   <Text>NON-MOTORIST</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="482.76" lly="468.00" ulx="482.76" uly="480.91" urx="580.78" ury="478.91" lrx="580.78" lry="468.00">
+  <Line>
+   <Text>23 - ANIMAL WITH RIDER</Text>
+  </Line>
+  <Line>
+   <Text>24 - ANIMAL WITH BUGGY, WAGON, SURREY</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="482.76" lly="455.04" ulx="482.76" uly="467.09" urx="543.28" ury="465.09" lrx="543.28" lry="455.04">
+  <Line>
+   <Text>25 - BICYCLE/PEDACYCLIST</Text>
+  </Line>
+  <Line>
+   <Text>26 - PEDESTRIAN/SKATER</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="482.76" lly="448.92" ulx="482.76" uly="454.92" urx="545.66" ury="452.92" lrx="545.66" lry="448.92">
+  <Line>
+   <Text>27 - OTHER NON-MOTORIST</Text>
+  </Line>
+ </Box>
+</Para>
+<Table llx="39.46" lly="365.58" urx="579.31" ury="420.19">
+ <Row>
+  <Cell llx="39.46" lly="365.58" urx="238.52" ury="420.19">
+   <Para>
+    <Box llx="39.46" lly="414.00" ulx="39.46" uly="418.00" urx="105.64" ury="418.79" lrx="105.64" lry="414.79">
+     <Line>
+      <Text>SPECIAL FUNCTION01 - NONE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="80.78" lly="408.38" ulx="80.78" uly="414.38" urx="102.77" ury="412.38" lrx="102.77" lry="408.38">
+     <Line>
+      <Text>02 - TAXI</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="52.70" lly="400.25" urx="160.76" ury="410.25">
+     <Line>
+      <Text>1 03 - RENTAL TRUCK (OVER 10K LBS)</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="80.78" lly="369.79" urx="172.35" ury="401.50">
+     <Line>
+      <Text>04 - BUS - SCHOOL (PUBLIC OR PRIVATE)</Text>
+     </Line>
+     <Line>
+      <Text>05 - BUS - TRANSIT</Text>
+     </Line>
+     <Line>
+      <Text>06 - BUS - CHARTER</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Line>
+     <Text>07 - BUS - SHUTTLE</Text>
+    </Line>
+    <Line>
+     <Text>08 - BUS - OTHER</Text>
+    </Line>
+   </Para>
+   <Para>
+    <Box llx="173.23" lly="367.78" ulx="173.23" uly="420.79" urx="238.52" ury="418.79" lrx="238.52" lry="367.78">
+     <Line>
+      <Text>09 - AMBULANCE</Text>
+     </Line>
+     <Line>
+      <Text>10 - FIRE</Text>
+     </Line>
+     <Line>
+      <Text>11 - HIGHWAY/MAINTENANCE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Line>
+     <Text>12 - MILITARY</Text>
+    </Line>
+    <Line>
+     <Text>13 - POLICE</Text>
+    </Line>
+    <Line>
+     <Text>14 - PUBLIC UTILITY</Text>
+    </Line>
+    <Line>
+     <Text>15 - OTHER GOVERNMENT</Text>
+    </Line>
+    <Line>
+     <Text>16 - CONSTRUCTION EQIP.</Text>
+    </Line>
+   </Para>
+  </Cell>
+  <Cell llx="242.73" lly="365.58" urx="396.60" ury="420.19">
+   <Para>
+    <Box llx="244.73" lly="383.11" ulx="244.73" uly="420.79" urx="313.47" ury="418.79" lrx="313.47" lry="383.11">
+     <Line>
+      <Text>17 - FARM VEHICLE</Text>
+     </Line>
+     <Line>
+      <Text>18 - FARM EQUIPMENT</Text>
+     </Line>
+     <Line>
+      <Text>19 - MOTORHOME</Text>
+     </Line>
+     <Line>
+      <Text>20 - GOLF CART</Text>
+     </Line>
+     <Line>
+      <Text>21 - TRAIN</Text>
+     </Line>
+     <Line>
+      <Text>22 - OTHER (EXPLAIN IN NARRATIVE)</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="319.25" lly="414.00" urx="368.50" ury="418.00">
+     <Line>
+      <Text>MOST DAMAGED AREA</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="350.28" lly="407.16" ulx="350.28" uly="413.16" urx="375.14" ury="411.16" lrx="375.14" lry="407.16">
+     <Line>
+      <Text>01 - NONE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="330.70" lly="394.34" urx="396.60" ury="410.25">
+     <Line>
+      <Text>9 02 - CENTER FRONT</Text>
+     </Line>
+     <Line>
+      <Text>03 - RIGHT FRONT</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="319.25" lly="389.09" ulx="319.25" uly="393.09" urx="387.76" ury="391.94" lrx="387.76" lry="387.94">
+     <Line>
+      <Text>IMPACT ARE 04 - RIGHT SIDE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="350.42" lly="381.46" ulx="350.42" uly="387.46" urx="389.74" ury="385.46" lrx="389.74" lry="381.46">
+     <Line>
+      <Text>05 - RIGHT REAR</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="330.70" lly="368.78" urx="393.78" ury="385.33">
+     <Line>
+      <Text>9 06 - REAR CENTER</Text>
+     </Line>
+     <Line>
+      <Text>07 - LEFT REAR</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="405.74" lly="365.58" urx="466.53" ury="420.19">
+   <Para>
+    <Box llx="407.74" lly="367.78" ulx="407.74" uly="413.16" urx="464.53" ury="411.16" lrx="464.53" lry="367.78">
+     <Line>
+      <Text>08 - LEFT SIDE</Text>
+     </Line>
+     <Line>
+      <Text>09 - LEFT FRONT</Text>
+     </Line>
+     <Line>
+      <Text>10 - TOP AND WINDOWS</Text>
+     </Line>
+     <Line>
+      <Text>11 - UNDERCARRIAGE</Text>
+     </Line>
+     <Line>
+      <Text>12 - LOAD/TRAILER</Text>
+     </Line>
+     <Line>
+      <Text>13 - TOTAL (ALL AREAS)</Text>
+     </Line>
+     <Line>
+      <Text>14 - OTHER</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="472.75" lly="365.58" urx="507.16" ury="420.19">
+   <Para>
+    <Box llx="472.75" lly="407.16" ulx="472.75" uly="413.16" urx="507.16" ury="411.16" lrx="507.16" lry="407.16">
+     <Line>
+      <Text>99 - UNKNOWN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="515.88" lly="365.58" urx="579.31" ury="420.19">
+   <Para>
+    <Box llx="515.88" lly="414.79" urx="532.34" ury="418.79">
+     <Line>
+      <Text>ACTION</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="518.33" lly="399.24" urx="523.89" ury="409.24">
+     <Line>
+      <Text>4</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="529.49" lly="380.02" ulx="529.49" uly="411.72" urx="577.31" ury="409.72" lrx="577.31" lry="380.02">
+     <Line>
+      <Text>1 - NON- CONTACT</Text>
+     </Line>
+     <Line>
+      <Text>2 - NON-COLLISION</Text>
+     </Line>
+     <Line>
+      <Text>3 - STRIKING</Text>
+     </Line>
+     <Line>
+      <Text>4 - STRUCK</Text>
+     </Line>
+     <Line>
+      <Text>5 - STRIKING/STRUCK</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="529.63" lly="372.67" ulx="529.63" uly="378.67" urx="560.73" ury="376.67" lrx="560.73" lry="372.67">
+     <Line>
+      <Text>9 - UNKNOWN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table llx="40.32" lly="356.58" urx="87.89" ury="361.38">
+ <Row>
+  <Cell llx="40.32" lly="356.58" urx="87.89" ury="361.38">
+   <Para>
+    <Box llx="40.32" lly="356.98" urx="87.89" ury="360.98">
+     <Line>
+      <Text>PRE- CRASH ACTIONS</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="96.91" lly="356.58" urx="162.62" ury="361.38">
+  </Cell>
+  <Cell llx="173.46" lly="356.58" urx="262.31" ury="361.38">
+  </Cell>
+  <Cell llx="266.49" lly="356.58" urx="336.41" ury="361.38">
+  </Cell>
+  <Cell llx="350.71" lly="356.58" urx="478.42" ury="361.38">
+  </Cell>
+  <Cell llx="486.22" lly="356.58" urx="566.69" ury="361.38">
+  </Cell>
+ </Row>
+ <Row>
+  <Cell llx="40.32" lly="356.58" urx="87.89" ury="361.38">
+   <Para>
+    <Box llx="49.03" lly="343.22" urx="60.15" ury="353.22">
+     <Line>
+      <Text>10</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="43.49" lly="321.05" ulx="43.49" uly="327.05" urx="77.90" ury="325.05" lrx="77.90" lry="321.05">
+     <Line>
+      <Text>99 - UNKNOWN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="96.91" lly="356.58" urx="162.62" ury="361.38">
+   <Para>
+    <Box llx="96.91" lly="347.90" urx="119.64" ury="351.90">
+     <Line>
+      <Text>MOTORIST</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="102.74" lly="306.50" ulx="102.74" uly="344.62" urx="162.62" ury="342.62" lrx="162.62" lry="306.50">
+     <Line>
+      <Text>01 - STRAIGHT AHEAD</Text>
+     </Line>
+     <Line>
+      <Text>02 - BACKING</Text>
+     </Line>
+     <Line>
+      <Text>03 - CHANGING LANES</Text>
+     </Line>
+     <Line>
+      <Text>04 - OVERTAKING/PASSING</Text>
+     </Line>
+     <Line>
+      <Text>05 - MAKING RIGHT TURN</Text>
+     </Line>
+     <Line>
+      <Text>06 - MAKING LEFT TURN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="173.46" lly="356.58" urx="262.31" ury="361.38">
+   <Para>
+    <Box llx="175.46" lly="332.21" ulx="175.46" uly="344.62" urx="242.07" ury="342.62" lrx="242.07" lry="332.21">
+     <Line>
+      <Text>07 - MAKING U-TURN</Text>
+     </Line>
+     <Line>
+      <Text>08 - ENTERING TRAFFIC LANE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="175.46" lly="304.99" ulx="175.46" uly="331.15" urx="260.31" ury="329.15" lrx="260.31" lry="304.99">
+     <Line>
+      <Text>09 - LEAVING TRAFFIC LANE</Text>
+     </Line>
+     <Line>
+      <Text>10 - PARKED</Text>
+     </Line>
+     <Line>
+      <Text>11 - SLOWING OR STOPPED IN TRAFFIC</Text>
+     </Line>
+     <Line>
+      <Text>12 - DRIVERLESS</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="266.49" lly="356.58" urx="336.41" ury="361.38">
+   <Para>
+    <Box llx="268.49" lly="332.21" ulx="268.49" uly="344.47" urx="334.41" ury="342.47" lrx="334.41" lry="332.21">
+     <Line>
+      <Text>13 - NEGOTIATING A CURVE</Text>
+     </Line>
+     <Line>
+      <Text>14 - OTHER MOTORIST ACTIO</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="350.71" lly="356.58" urx="478.42" ury="361.38">
+   <Para>
+    <Box llx="350.71" lly="347.90" urx="385.75" ury="351.90">
+     <Line>
+      <Text>NON-MOTORIST</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="361.15" lly="332.64" ulx="361.15" uly="344.90" urx="478.42" ury="342.90" lrx="478.42" lry="332.64">
+     <Line>
+      <Text>15 - ENTERING OR CROSSING SPECIFIED LOCATIO</Text>
+     </Line>
+     <Line>
+      <Text>16 - WALKING,RUNNING, JOGGING, PLAYING, CYCLING</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="361.15" lly="306.14" ulx="361.15" uly="331.15" urx="449.96" ury="329.15" lrx="449.96" lry="306.14">
+     <Line>
+      <Text>17 - WORKING</Text>
+     </Line>
+     <Line>
+      <Text>18 - PUSHING VEHICLE</Text>
+     </Line>
+     <Line>
+      <Text>19 - APPROACHING OR LEAVING VEHICLE</Text>
+     </Line>
+     <Line>
+      <Text>20 - STANDING</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="486.22" lly="356.58" urx="566.69" ury="361.38">
+   <Para>
+    <Box llx="486.22" lly="338.47" ulx="486.22" uly="344.47" urx="566.69" ury="342.47" lrx="566.69" lry="338.47">
+     <Line>
+      <Text>21 - OTHER NON-MOTORIST ACTION</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Para>
+ <Box llx="41.26" lly="286.78" urx="108.87" ury="297.69">
+  <Line>
+   <Text>CONTRIBUTING CIRCUMSTANCE</Text>
+  </Line>
+  <Line>
+   <Text>PRIMARY</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="51.19" lly="273.02" urx="56.75" ury="283.02">
+  <Line>
+   <Text>1</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="43.49" lly="254.16" urx="70.17" ury="258.16">
+  <Line>
+   <Text>SECONDARY</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="43.49" lly="222.70" ulx="43.49" uly="228.70" urx="77.90" ury="226.70" lrx="77.90" lry="222.70">
+  <Line>
+   <Text>99 - UNKNOWN</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="94.25" lly="286.78" urx="116.97" ury="290.78">
+  <Line>
+   <Text>MOTORIST</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="96.62" lly="228.96" ulx="96.62" uly="286.30" urx="181.90" ury="284.30" lrx="181.90" lry="228.96">
+  <Line>
+   <Text>01 - NONE</Text>
+  </Line>
+  <Line>
+   <Text>02 - FAILURE TO YIELD</Text>
+  </Line>
+  <Line>
+   <Text>03 - RAN RED LIGHT</Text>
+  </Line>
+  <Line>
+   <Text>04 - RAN STOP SIGN</Text>
+  </Line>
+  <Line>
+   <Text>05 - EXCEEDED SPEED LIMIT</Text>
+  </Line>
+  <Line>
+   <Text>06 - UNSAFE SPEED</Text>
+  </Line>
+  <Line>
+   <Text>07 - IMPROPER TURN</Text>
+  </Line>
+  <Line>
+   <Text>08 - LEFT OF CENTER</Text>
+  </Line>
+  <Line>
+   <Text>09 - FOLLOWED TOO CLOSELY/ACDA</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="96.91" lly="222.26" ulx="96.91" uly="228.26" urx="162.89" ury="226.26" lrx="162.89" lry="222.26">
+  <Line>
+   <Text>10 - IMPROPER LANE CHANGE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="108.57" lly="215.50" urx="153.60" ury="219.50">
+  <Line>
+   <Text>/PASSING/OFF ROAD</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="196.20" lly="214.85" ulx="196.20" uly="286.30" urx="327.01" ury="284.30" lrx="327.01" lry="214.85">
+  <Line>
+   <Text>11 - IMPROPER BACKING</Text>
+  </Line>
+  <Line>
+   <Text>12 - IMPROPER START FROM PARKED POSITION</Text>
+  </Line>
+  <Line>
+   <Text>13 - STOPPED OR PARKED ILLEGALLY</Text>
+  </Line>
+  <Line>
+   <Text>14 - OPERATING VEHICLE IN NEGLIGENT MANNER</Text>
+  </Line>
+  <Line>
+   <Text>15 - SWERVING TO AVOID (DUE TO EXTERNAL CONDITIONS)</Text>
+  </Line>
+  <Line>
+   <Text>16 - WRONG SIDE/WRONG WAY</Text>
+  </Line>
+  <Line>
+   <Text>17 - FALURE TO CONTROL</Text>
+  </Line>
+  <Line>
+   <Text>18 - VISION OBSTRUCTION</Text>
+  </Line>
+  <Line>
+   <Text>19 - OPERATING DEFECTIVE EQUIPMENT</Text>
+  </Line>
+  <Line>
+   <Text>20 - LOAD SHIFTING/FALLING/SPILLING</Text>
+  </Line>
+  <Line>
+   <Text>21 - OTHER IMPROPER ACTION</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="325.01" lly="286.78" urx="360.04" ury="290.78">
+  <Line>
+   <Text>NON-MOTORIST</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="331.06" lly="233.86" ulx="331.06" uly="286.37" urx="423.55" ury="284.37" lrx="423.55" lry="233.86">
+  <Line>
+   <Text>22 - NONE</Text>
+  </Line>
+  <Line>
+   <Text>23 - IMPROPER CROSSING</Text>
+  </Line>
+  <Line>
+   <Text>24 - DARTING</Text>
+  </Line>
+  <Line>
+   <Text>25 - LYING AND/OR ILLEGALLY IN ROADWAY</Text>
+  </Line>
+  <Line>
+   <Text>26 - FALURE TO YIELD RIGHT OF WAY</Text>
+  </Line>
+  <Line>
+   <Text>27 - NOT VISIBLE (DARK CLOTHING)</Text>
+  </Line>
+  <Line>
+   <Text>28 - INATTENTIVE</Text>
+  </Line>
+  <Line>
+   <Text>29 - FAILURE TO OBEY TRAFFIC SIGNS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="342.19" lly="227.09" urx="383.36" ury="231.09">
+  <Line>
+   <Text>/SIGNALS/OFFICER</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="331.06" lly="213.98" ulx="331.06" uly="226.25" urx="412.18" ury="224.25" lrx="412.18" lry="213.98">
+  <Line>
+   <Text>30 - WRONG SIDE OF THE ROAD</Text>
+  </Line>
+  <Line>
+   <Text>31 - OTHER NON-MOTORIST ACTION</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="457.56" lly="294.34" urx="498.23" ury="298.34">
+  <Line>
+   <Text>VEHICLE DEFECTS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="486.07" lly="219.82" ulx="486.07" uly="291.26" urx="571.16" ury="289.26" lrx="571.16" lry="219.82">
+  <Line>
+   <Text>01 - TURN SIGNALS</Text>
+  </Line>
+  <Line>
+   <Text>02 - HEAD LAMPS</Text>
+  </Line>
+  <Line>
+   <Text>03 - TAIL LAMPS</Text>
+  </Line>
+  <Line>
+   <Text>04 - BRAKES</Text>
+  </Line>
+  <Line>
+   <Text>05 - STEERING</Text>
+  </Line>
+  <Line>
+   <Text>06 - TIRE BLOWOUT</Text>
+  </Line>
+  <Line>
+   <Text>07 - WORN OR SLICK TIRES</Text>
+  </Line>
+  <Line>
+   <Text>08 - TRAILER EQUIPMENT DEFECTIVE</Text>
+  </Line>
+  <Line>
+   <Text>09 - MOTOR TROUBLE</Text>
+  </Line>
+  <Line>
+   <Text>10 - DISABLED FROM PRIOR ACCIDENT</Text>
+  </Line>
+  <Line>
+   <Text>11 - OTHER DEFECTS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="43.34" lly="200.59" urx="92.16" ury="204.59">
+  <Line>
+   <Text>SEQUENCE OF EVENTS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="41.18" lly="193.10" urx="208.39" ury="199.10">
+  <Line>
+   <Text>1 2 3 4 5 6</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="51.98" lly="188.42" urx="63.10" ury="198.42">
+  <Line>
+   <Text>20</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="46.44" lly="173.09" urx="67.20" ury="183.86">
+  <Line>
+   <Text>FIRST</Text>
+  </Line>
+  <Line>
+   <Text>HARMFUL</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="52.49" lly="166.32" urx="67.18" ury="170.32">
+  <Line>
+   <Text>EVENT</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="104.83" lly="179.86" urx="115.13" ury="183.86">
+  <Line>
+   <Text>Most</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="70.78" lly="172.73" urx="124.43" ury="182.73">
+  <Line>
+   <Text>1 HARMFUL 1</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="100.44" lly="166.32" urx="115.13" ury="170.32">
+  <Line>
+   <Text>EVENT</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="178.20" lly="174.74" ulx="178.20" uly="180.74" urx="212.61" ury="178.74" lrx="212.61" lry="174.74">
+  <Line>
+   <Text>99 - UNKNOWN</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="248.04" lly="199.73" urx="300.89" ury="203.73">
+  <Line>
+   <Text>NON-COLLISION EVENTS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="251.64" lly="192.53" ulx="251.64" uly="199.10" urx="400.72" ury="197.10" lrx="400.72" lry="192.53">
+  <Line>
+   <Text>01 - OVERTURN/ROLLOVER</Text>
+  </Line>
+  <Line>
+   <Text>06 - EQUIPMENT FAILURE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="251.64" lly="179.71" ulx="251.64" uly="192.12" urx="299.43" ury="190.12" lrx="299.43" lry="179.71">
+  <Line>
+   <Text>02 - FIRE/EXPLOSION</Text>
+  </Line>
+  <Line>
+   <Text>03 - IMMERSION</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="344.59" lly="180.22" ulx="344.59" uly="186.22" urx="404.67" ury="184.22" lrx="404.67" lry="180.22">
+  <Line>
+   <Text>07 - SEPARATION OF UNITS</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="251.64" lly="173.23" ulx="251.64" uly="179.23" urx="286.45" ury="177.23" lrx="286.45" lry="173.23">
+  <Line>
+   <Text>04 - JACKKNIFE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="251.78" lly="166.82" ulx="251.78" uly="179.81" urx="405.98" ury="177.81" lrx="405.98" lry="167.40">
+  <Line>
+   <Text>08 - RAN OFF ROAD RIGHT</Text>
+  </Line>
+  <Line>
+   <Text>05 - CARGO/EQUIPMENT LOSS OR SHIFT 09 - RAN OFF ROAD LEFT</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="248.04" lly="157.46" urx="315.70" ury="161.46">
+  <Line>
+   <Text>COLLISION WITH FIXED, OBJECT</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="355.19" lly="188.21" ulx="355.19" uly="191.21" urx="413.53" ury="192.21" lrx="413.53" lry="188.21">
+  <Line>
+   <Text>(BLOWN TIRE, BRAKE FAILURE, ETC)</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="436.03" lly="186.12" ulx="436.03" uly="198.53" urx="493.52" ury="196.53" lrx="493.52" lry="186.12">
+  <Line>
+   <Text>10 - CROSS MEDIAN</Text>
+  </Line>
+  <Line>
+   <Text>11 - CROSS CENTER LINE</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="448.75" lly="179.35" urx="519.77" ury="183.35">
+  <Line>
+   <Text>OPPOSITE DIRECTION OF TRAVEL</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="436.03" lly="173.23" ulx="436.03" uly="179.23" urx="493.39" ury="177.23" lrx="493.39" lry="173.23">
+  <Line>
+   <Text>12 - DOWNHILL RUNAWAY</Text>
+  </Line>
+ </Box>
+</Para>
+<Para>
+ <Box llx="436.03" lly="166.82" ulx="436.03" uly="172.82" urx="498.96" ury="170.82" lrx="498.96" lry="166.82">
+  <Line>
+   <Text>13 - OTHER NON-COLLISION</Text>
+  </Line>
+ </Box>
+</Para>
+<Table llx="40.32" lly="101.34" urx="572.16" ury="154.74">
+ <Row>
+  <Cell llx="40.32" lly="101.34" urx="237.09" ury="154.74">
+   <Para>
+    <Box llx="40.32" lly="150.34" urx="165.92" ury="154.34">
+     <Line>
+      <Text>COLLISION WITH PERSON, VEHICLE OR OBJECT NOT FIXED</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="47.09" lly="103.54" ulx="47.09" uly="148.06" urx="127.18" ury="146.06" lrx="127.18" lry="103.54">
+     <Line>
+      <Text>14 - PEDESTRIAN</Text>
+     </Line>
+     <Line>
+      <Text>15 - PEDALCYCLE</Text>
+     </Line>
+     <Line>
+      <Text>16 - RAILWAY VEHICLE (TRAIN, ENGINE)</Text>
+     </Line>
+     <Line>
+      <Text>17 - ANIMAL - FARM</Text>
+     </Line>
+     <Line>
+      <Text>18 - ANIMAL - DEER</Text>
+     </Line>
+     <Line>
+      <Text>19 - ANIMAL -OTHER</Text>
+     </Line>
+     <Line>
+      <Text>20 - MOTOR VEHICLE IN TRANSPORT</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="139.54" lly="129.24" ulx="139.54" uly="148.06" urx="237.09" ury="146.06" lrx="237.09" lry="129.24">
+     <Line>
+      <Text>21 - PARKED MOTOR VEHICLE</Text>
+     </Line>
+     <Line>
+      <Text>22 - WORK ZONE MAINTENANCE EQUIPMENT</Text>
+     </Line>
+     <Line>
+      <Text>23 - STRUCK BY FALLING, SHIFTING CARGO</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="151.20" lly="115.70" urx="224.36" ury="126.47">
+     <Line>
+      <Text>OR ANYTHING SET IN MOTION BY A</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Line>
+     <Text>MOTOR VEHICLE</Text>
+    </Line>
+   </Para>
+   <Para>
+    <Box llx="139.54" lly="108.14" ulx="139.54" uly="114.14" urx="207.42" ury="112.14" lrx="207.42" lry="108.14">
+     <Line>
+      <Text>24 - OTHER MOVABLE OBJECT</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="249.64" lly="101.34" urx="419.74" ury="154.74">
+   <Para>
+    <Box llx="251.50" lly="129.24" ulx="251.50" uly="154.54" urx="419.74" ury="152.54" lrx="419.74" lry="129.24">
+     <Line>
+      <Text>25 - IMPACT ATTENUATOR/CRASH CUSHION33 - MEDIAN CABLE BARRIER</Text>
+     </Line>
+     <Line>
+      <Text>26 - BRIDGE OVERHEAD STRUCTURE 34 - MEDIAN GUARDRAIL BARRIER</Text>
+     </Line>
+     <Line>
+      <Text>27 - BRIDGE PIER OR ABUTMENT 35 - MEDIAN CONCRETE BARRIER</Text>
+     </Line>
+     <Line>
+      <Text>28 - BRIDGE PARAPET</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="344.45" lly="129.24" ulx="344.45" uly="135.24" urx="410.38" ury="133.24" lrx="410.38" lry="129.24">
+     <Line>
+      <Text>36 - MEDIAN OTHER BARRIER</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="251.64" lly="122.83" ulx="251.64" uly="128.83" urx="399.96" ury="126.83" lrx="399.96" lry="122.83">
+     <Line>
+      <Text>29 - BRIDGE RAIL</Text>
+     </Line>
+     <Line>
+      <Text>37 - TRAFFIC SIGN POST</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="251.64" lly="116.35" ulx="251.64" uly="122.35" urx="405.87" ury="120.35" lrx="405.87" lry="116.35">
+     <Line>
+      <Text>30 - GUARDRAIL FACE</Text>
+     </Line>
+     <Line>
+      <Text>38 - OVERHEAD SIGN POST</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="251.64" lly="109.94" ulx="251.64" uly="115.94" urx="417.55" ury="113.94" lrx="417.55" lry="109.94">
+     <Line>
+      <Text>31 - GUARDRAILEND</Text>
+     </Line>
+     <Line>
+      <Text>39 - LIGHT/LUMINARIES SUPPORT</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="251.64" lly="103.54" ulx="251.64" uly="109.54" urx="385.71" ury="107.54" lrx="385.71" lry="103.54">
+     <Line>
+      <Text>32 - PORTABLE BARRIER</Text>
+     </Line>
+     <Line>
+      <Text>40 - UTILITY POLE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="434.03" lly="101.34" urx="490.97" ury="154.74">
+   <Para>
+    <Box llx="436.03" lly="148.54" ulx="436.03" uly="154.54" urx="490.97" ury="152.54" lrx="490.97" lry="148.54">
+     <Line>
+      <Text>41 - OTHER POST, POLE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="447.69" lly="141.77" urx="475.44" ury="145.77">
+     <Line>
+      <Text>OR SUPPORT</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="436.03" lly="135.65" ulx="436.03" uly="141.65" urx="468.00" ury="139.65" lrx="468.00" lry="135.65">
+     <Line>
+      <Text>42 - CULVART</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="436.03" lly="103.54" ulx="436.03" uly="135.24" urx="477.41" ury="133.24" lrx="477.41" lry="103.54">
+     <Line>
+      <Text>43 - CURB</Text>
+     </Line>
+     <Line>
+      <Text>44 - DITCH</Text>
+     </Line>
+     <Line>
+      <Text>45 - EMBANKMENT</Text>
+     </Line>
+     <Line>
+      <Text>46 - FENCE</Text>
+     </Line>
+     <Line>
+      <Text>47 - MAILBOX</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="500.06" lly="101.34" urx="572.16" ury="154.74">
+   <Para>
+    <Box llx="501.91" lly="135.65" ulx="501.91" uly="154.54" urx="572.16" ury="152.54" lrx="572.16" lry="135.65">
+     <Line>
+      <Text>48 - TREE</Text>
+     </Line>
+     <Line>
+      <Text>49 - FIRE HYDRANT</Text>
+     </Line>
+     <Line>
+      <Text>50 - WORK ZONE MAINTENANCE</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="514.78" lly="128.88" urx="539.92" ury="132.88">
+     <Line>
+      <Text>EQUIPMENT</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="502.06" lly="122.83" ulx="502.06" uly="128.83" urx="568.53" ury="126.83" lrx="568.53" lry="122.83">
+     <Line>
+      <Text>51 - WALL, BUILDING, TUNNEL</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="502.06" lly="116.35" ulx="502.06" uly="122.35" urx="561.94" ury="120.35" lrx="561.94" lry="116.35">
+     <Line>
+      <Text>52 - OTHER FIXED OBJECT</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+<Table llx="40.32" lly="46.26" urx="579.09" ury="95.38">
+ <Row>
+  <Cell llx="40.32" lly="46.26" urx="72.47" ury="95.38">
+   <Para>
+    <Box llx="40.32" lly="90.50" urx="68.12" ury="94.50">
+     <Line>
+      <Text>UNIT SPEED</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="40.32" lly="76.32" urx="45.88" ury="86.32">
+     <Line>
+      <Text>0</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="48.24" lly="60.34" urx="65.37" ury="64.34">
+     <Line>
+      <Text>STATED</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="48.24" lly="50.04" urx="72.47" ury="54.04">
+     <Line>
+      <Text>ESTIMATED</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="100.80" lly="46.26" urx="135.66" ury="95.38">
+   <Para>
+    <Box llx="100.80" lly="90.50" urx="135.66" ury="94.50">
+     <Line>
+      <Text>POSTED SPEED</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="101.81" lly="76.32" urx="112.93" ury="86.32">
+     <Line>
+      <Text>15</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="147.46" lly="46.26" urx="230.82" ury="95.38">
+   <Para>
+    <Box llx="147.46" lly="90.50" urx="188.66" ury="94.50">
+     <Line>
+      <Text>TRAFFIC CONTROL</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="152.35" lly="76.54" urx="163.47" ury="86.53">
+     <Line>
+      <Text>12</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="175.25" lly="48.46" ulx="175.25" uly="86.64" urx="228.82" ury="84.64" lrx="228.82" lry="48.46">
+     <Line>
+      <Text>01 - NO CONTROLS</Text>
+     </Line>
+     <Line>
+      <Text>02 - S TOP SIGN</Text>
+     </Line>
+     <Line>
+      <Text>03 - YIELD SIGN</Text>
+     </Line>
+     <Line>
+      <Text>04 - TRAFFIC SIGNAL</Text>
+     </Line>
+     <Line>
+      <Text>05 - TRAFFIC FLASHERS</Text>
+     </Line>
+     <Line>
+      <Text>06 - SCHOOL ZONE</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="237.76" lly="46.26" urx="373.24" ury="95.38">
+   <Para>
+    <Box llx="239.62" lly="48.46" ulx="239.62" uly="86.64" urx="373.24" ury="84.64" lrx="373.24" lry="48.46">
+     <Line>
+      <Text>07 - RAILROAD CROSSBUCKS 13 - CROSSWALK LINES</Text>
+     </Line>
+     <Line>
+      <Text>08 - R AILROAD FLASHERS 14 - W ALK/DON&apos;T WALK</Text>
+     </Line>
+     <Line>
+      <Text>09 - R AILROAD GATES 15 - O THER</Text>
+     </Line>
+     <Line>
+      <Text>10 - COSTRUCTION BARRICADE 16 - NOT REPORTED</Text>
+     </Line>
+     <Line>
+      <Text>11 - PERSON (FLAGGER, OFFICER</Text>
+     </Line>
+     <Line>
+      <Text>12 - PAVEMENT MARKINGS</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="394.34" lly="46.26" urx="451.74" ury="95.38">
+   <Para>
+    <Box llx="394.34" lly="90.22" urx="430.64" ury="94.22">
+     <Line>
+      <Text>UNIT DIRECTION</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="396.43" lly="78.91" urx="409.43" ury="82.91">
+     <Line>
+      <Text>FROM</Text>
+     </Line>
+    </Box>
+   </Para>
+   <Para>
+    <Box llx="414.94" lly="74.23" urx="451.74" ury="84.23">
+     <Line>
+      <Text>TO</Text>
+     </Line>
+     <Line>
+      <Text>4 3</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="461.30" lly="46.26" urx="485.52" ury="95.38">
+   <Para>
+    <Box llx="461.30" lly="65.38" ulx="461.30" uly="91.03" urx="485.52" ury="89.03" lrx="485.52" lry="65.38">
+     <Line>
+      <Text>1 - NORTH</Text>
+     </Line>
+     <Line>
+      <Text>2 - SOUTH</Text>
+     </Line>
+     <Line>
+      <Text>3 - EAST</Text>
+     </Line>
+     <Line>
+      <Text>4 - WEST</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="501.70" lly="46.26" urx="537.45" ury="95.38">
+   <Para>
+    <Box llx="501.70" lly="65.38" ulx="501.70" uly="91.03" urx="537.45" ury="89.03" lrx="537.45" lry="65.38">
+     <Line>
+      <Text>5 - NORTHEAST</Text>
+     </Line>
+     <Line>
+      <Text>6 - NORTHWEST</Text>
+     </Line>
+     <Line>
+      <Text>7 - SOUTHEAST</Text>
+     </Line>
+     <Line>
+      <Text>8 - SOUTHWEST</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+  <Cell llx="547.99" lly="46.26" urx="579.09" ury="95.38">
+   <Para>
+    <Box llx="547.99" lly="85.03" ulx="547.99" uly="91.03" urx="579.09" ury="89.03" lrx="579.09" lry="85.03">
+     <Line>
+      <Text>9 - UNKNOWN</Text>
+     </Line>
+    </Box>
+   </Para>
+  </Cell>
+ </Row>
+</Table>
+</Content>
+</Page>
+<Resources>
+<Fonts>
+ <Font id="F0" name="Microsoft Sans Serif" fullname="ABCDEE+Microsoft Sans Serif" type="TrueType" embedded="true" ascender="728.00" capheight="716.00" italicangle="0.00" descender="-210.00" weight="400.00" xheight="518.00"/>
+ <Font id="F1" name="Microsoft Sans Serif" fullname="ABCDEE+Microsoft Sans Serif" type="TrueType" embedded="true" ascender="728.00" capheight="716.00" italicangle="0.00" descender="-210.00" weight="400.00" xheight="518.00"/>
+ <Font id="F2" name="Helvetica" type="Type 1" embedded="false" ascender="718.00" capheight="718.00" italicangle="0.00" descender="-207.00" weight="400.00" xheight="523.00"/>
+</Fonts>
+<Images>
+ <Image id="I0" filename="digital_report_6543239_I0.jpg" extractedAs=".jpg" width="240" height="240" colorspace="CS0" bitsPerComponent="8"/>
+ <Image id="I1" filename="digital_report_6543239_I1.jpg" extractedAs=".jpg" width="656" height="150" colorspace="CS0" bitsPerComponent="8"/>
+ <Image id="I2" filename="digital_report_6543239_I2.tif" extractedAs=".tif" width="280" height="480" colorspace="CS0" bitsPerComponent="8"/>
+ <Image id="I3" filename="digital_report_6543239_I3.jpg" extractedAs=".jpg" width="656" height="150" colorspace="CS0" bitsPerComponent="8"/>
+</Images>
+<ColorSpaces>
+ <ColorSpace id="CS0" name="DeviceRGB" components="3"/>
+</ColorSpaces>
+</Resources>
+<Graphics>
+<Colors>
+ <Color id="C0" colorspace="CS0" svgname="black">
+  <Value>0.00</Value>
+  <Value>0.00</Value>
+  <Value>0.00</Value>
+ </Color>
+ <Color id="C1" colorspace="CS0" svgname="white">
+  <Value>1.00</Value>
+  <Value>1.00</Value>
+  <Value>1.00</Value>
+ </Color>
+</Colors>
+</Graphics>
+</Pages>
+</Document>
+</TET>
