@@ -5,3 +5,7 @@ Scrapes public records from Ohio Department of Public Safety website as PDF's in
 This service netted me around $500 a month for several years and is currently under redevelopment due to an OhioDPS website redesign.
 
 Please view the sample-report.pdf for a sample of a crash report, and the sample-extract.xml to see what TET does to make the data accessible. The ohio-dps-website.aspx is a sample of what the front page of the website looked like code-wise.
+
+Here is a sample video of the program running:
+
+https://www.youtube.com/watch?v=gEcPmh-3lDY
