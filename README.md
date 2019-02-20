@@ -1,5 +1,5 @@
 # CrashLeads
-## Lead generation service for chiropractors and lawyers
+*Lead generation service for chiropractors and lawyers*
 
 Scrapes public records from Ohio Department of Public Safety website as PDF's in real-time 24/7, then scrapes the data into an XML file using TET, from which the information is found using positional XY coords and stored in a database where the information can be correlated and used via a portal, or by push/sms/email notifications. It makes use of PhantomJS as the browser using Selenium as the website makes heavy use of javascript and ASPX callbacks, or I would simply request pages using simple HTTP 1.1 GET requests.
 
