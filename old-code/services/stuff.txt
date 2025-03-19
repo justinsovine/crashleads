@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "../master.py", line 18, in <module>
+    from modules import database, download, notify, pages, search
+  File "/srv/service/grabreports/modules/search.py", line 161
+    else if len(col) == 2:
+          ^
+SyntaxError: invalid syntax

@@ -1,0 +1,2 @@
+http://www.howtogeek.com/howto/ubuntu/delete-files-older-than-x-days-on-linux/
+find /path/to/files* -mtime +5 -exec rm {} \;

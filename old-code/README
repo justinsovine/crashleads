@@ -1,0 +1,7 @@
+Requirements:
+xvfb - Virtual display
+uwsgi & nginx - HTTP
+
+Commands:
+uwsgi -p 2 -s 127.0.0.1:9001 --wsgi-file /srv/service/grabreports/www/adapter.wsgi
+sudo /usr/bin/Xvfb :99 -nolisten tcp -fbdir /var/run

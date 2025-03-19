@@ -1,0 +1,10 @@
+insert into site_list (title, link, active) values('Fairborn','http://fairbornoh.policereports.us/',1);
+insert into site_list (title, link, active) values('Clearcreek Township','http://clearcreektwpoh.policereports.us/',1);
+insert into site_list (title, link, active) values('Kettering','http://ketteringoh.policereports.us/',1);
+insert into site_list (title, link, active) values('Monroe','http://monroeoh.policereports.us/',1);
+insert into site_list (title, link, active) values('Oxford','http://oxfordoh.policereports.us/',1);
+insert into site_list (title, link, active) values('Springfield','http://springfieldoh.policereports.us/',1);
+insert into site_list (title, link, active) values('Union Township','http://uniontwpoh.policereports.us/',1);
+insert into site_list (title, link, active) values('Montgomery','http://montgomeryoh.policereports.us/',1);
+insert into site_list (title, link, active) values('Perry Township','http://perrytownshipoh.policereports.us/',1);
+insert into site_list (title, link, active) values('Xenia','http://xeniaoh.policereports.us/',1);

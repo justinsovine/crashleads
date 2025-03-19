@@ -1,0 +1,10 @@
+#!/bin/bash
+
+while :
+do
+  # Run GrabReports
+  xvfb-run python ../master.py
+
+  # Sleep for 5 minutes
+  #sleep 300
+done

@@ -1,0 +1,2 @@
+# Not necessary as root
+uwsgi -p 2 -s 127.0.0.1:9001 --wsgi-file /srv/service/grabreports/www/adapter.wsgi
