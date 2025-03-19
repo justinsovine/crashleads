@@ -15,10 +15,10 @@ from email.mime.text import MIMEText
 import MySQLdb
 import MySQLdb.cursors
 
-db = MySQLdb.connect(host="localhost",  # your host, usually localhost
-                     user="crashleadsprod",  # your username
-                     passwd="crashleads2017!",  # your password
-                     db="crashleads_prod",
+db = MySQLdb.connect(host="HOST",  # your host, usually localhost
+                     user="USER",  # your username
+                     passwd="PASSWORD",  # your password
+                     db="DATABASE",
                      cursorclass=MySQLdb.cursors.DictCursor)  # Cursor type
 db.set_character_set('utf8')
 
