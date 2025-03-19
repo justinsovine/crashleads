@@ -19,7 +19,10 @@ The main workflow is orchestrated by **main.py**, while all core functionalities
 
 ### Implementation Details
 - **main.py:**  
-  Orchestrates the overall process by tying together downloading, OCR processing, data extraction, database storage, and notifications.
+  - Orchestrates the overall process by tying together downloading, OCR processing, data extraction, database storage, and notifications.
+  - Uses Selenium with PhantomJS for headless browser control.
+  - Parses HTML table data using BeautifulSoup (from the `bs4` library).
+  - Implements multiprocessing via Python's `multiprocessing.Pool` to parallelize OCR processing tasks.
 
 - **modules/download.py:**  
   - Uses `urllib.request` to download PDF files.
