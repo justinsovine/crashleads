@@ -22,4 +22,6 @@ looked like code-wise.
 
 [![Watch the video](https://img.youtube.com/vi/gEcPmh-3lDY/0.jpg)](https://www.youtube.com/watch?v=gEcPmh-3lDY)
 
+[Watch the video on YouTube](https://www.youtube.com/watch?v=gEcPmh-3lDY)
+
 
